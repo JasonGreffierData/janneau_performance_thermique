@@ -1,0 +1,2540 @@
+[
+  {
+    "id": 1,
+    "nom": "BOIS - Fixe",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 2,
+    "nom": "BOIS - Française 1 vantail",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 228,
+    "nom": "BOIS - Française 1 vantail (ouvrant épaissi)",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "BOIS - Française 2 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 229,
+    "nom": "BOIS - Française 2 vantaux (ouvrant épaissi)",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "BOIS - Française 3 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 230,
+    "nom": "BOIS - Française 3 vantaux (ouvrant épaissi)",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 5,
+    "nom": "BOIS - Française 4 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 231,
+    "nom": "BOIS - Française 4 vantaux (ouvrant épaissi)",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 6,
+    "nom": "BOIS - Française 2 vantaux + 1 fixe latéral",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 232,
+    "nom": "BOIS - Française 2 vantaux + 1 fixe latéral faux ouvrant (ouvrant épaissi)",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 7,
+    "nom": "BOIS - Française 2 vantaux + 2 fixes latéraux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 233,
+    "nom": "BOIS - Française 2 vantaux + 2 fixes latéraux faux ouvrant (ouvrant épaissi)",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 8,
+    "nom": "BOIS - Oscillo-battante 1 vantail",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 234,
+    "nom": "BOIS - Oscillo-battante 1 vantail (ouvrant épaissi)",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 9,
+    "nom": "BOIS - Oscillo-battante 2 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 235,
+    "nom": "BOIS - Oscillo-battante 2 vantaux (ouvrant épaissi)",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 10,
+    "nom": "BOIS - Soufflet",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 236,
+    "nom": "BOIS - Soufflet (ouvrant épaissi)",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 209,
+    "nom": "CARLIS.J - Fixe",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 210,
+    "nom": "CARLIS.J - Française 1 vantail",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 211,
+    "nom": "CARLIS.J - Française 2 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 212,
+    "nom": "CARLIS.J - Française 3 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 213,
+    "nom": "CARLIS.J - Française 4 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 214,
+    "nom": "CARLIS.J - Française 2 vantaux + 1 fixe latéral",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 215,
+    "nom": "CARLIS.J - Française 2 vantaux + 2 fixes latéraux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 216,
+    "nom": "CARLIS.J - Oscillo-battante 1 vantail",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 217,
+    "nom": "CARLIS.J - Oscillo-battante 2 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 218,
+    "nom": "CARLIS.J - Soufflet",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 21,
+    "nom": "PRIMELIS - Fixe",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 22,
+    "nom": "PRIMELIS  - Française 1 vantail",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 23,
+    "nom": "PRIMELIS  - Française 2 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 24,
+    "nom": "PRIMELIS  - Française 3 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 25,
+    "nom": "PRIMELIS  - Française 4 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 26,
+    "nom": "PRIMELIS  - Française 2 vantaux + 1 fixe latéral",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 27,
+    "nom": "PRIMELIS  - Française 2 vantaux + 2 fixes latéraux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 28,
+    "nom": "PRIMELIS  - Oscillo-battante 1 vantail",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 29,
+    "nom": "PRIMELIS  - Oscillo-battante 2 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 113,
+    "nom": "PRIMELIS  - Oscillo-battante 1 vantail + imposte soufflet",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 114,
+    "nom": "PRIMELIS  - Française 1 vantail + traverse intermédiaire",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 30,
+    "nom": "PRIMELIS  - Soufflet",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 158,
+    "nom": "EVOLUTION - Fixe",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 159,
+    "nom": "EVOLUTION - Française 1 vantail",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 160,
+    "nom": "EVOLUTION - Française 2 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 161,
+    "nom": "EVOLUTION - Française 3 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 162,
+    "nom": "EVOLUTION - Française 4 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 163,
+    "nom": "EVOLUTION - Française 2 vantaux + 1 fixe latéral",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 164,
+    "nom": "EVOLUTION - Française 2 vantaux + 2 fixes latéraux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 165,
+    "nom": "EVOLUTION - Oscillo-battante 1 vantail",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 166,
+    "nom": "EVOLUTION - Oscillo-battante 2 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 167,
+    "nom": "EVOLUTION - Soufflet",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 31,
+    "nom": "ESSENTIEL - Fixe",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "ESSE",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 32,
+    "nom": "ESSENTIEL - Française 1 vantail",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "ESSE",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 33,
+    "nom": "ESSENTIEL - Française 2 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "ESSE",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 34,
+    "nom": "ESSENTIEL - Française 3 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "ESSE",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 35,
+    "nom": "ESSENTIEL - Française 4 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "ESSE",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 36,
+    "nom": "ESSENTIEL - Française 2 vantaux + 1 fixe latéral",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "ESSE",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 37,
+    "nom": "ESSENTIEL - Française 2 vantaux + 2 fixes latéraux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "ESSE",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 38,
+    "nom": "ESSENTIEL - Oscillo-battante 1 vantail",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "ESSE",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 39,
+    "nom": "ESSENTIEL - Oscillo-battante 2 vantaux",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "ESSE",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 40,
+    "nom": "ESSENTIEL - Soufflet",
+    "famille": "FENETRES A FRAPPE",
+    "gamme": null,
+    "gamme_code": "ESSE",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 41,
+    "nom": "SOLARIS II - Baie coulissante 2 vantaux 2 rails",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "SOII",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 42,
+    "nom": "SOLARIS II - Baie coulissante 3 vantaux 2 rails",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "SOII",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 43,
+    "nom": "SOLARIS II - Baie coulissante 3 vantaux 2 rails PERCUSSION",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "SOII",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 44,
+    "nom": "SOLARIS II - Baie coulissante 4 vantaux 2 rails PERCUSSION",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "SOII",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 45,
+    "nom": "SOLARIS II - Baie coulissante 3 vantaux 3 rails",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "SOII",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 46,
+    "nom": "SOLARIS II - Baie coulissante 6 vantaux 3 rails PERCUSSION",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "SOII",
+    "nb_vitrages": 6,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 47,
+    "nom": "SOLARIS II - Galandage 1 vantail refoulement 1 côté",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "SOII",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 48,
+    "nom": "SOLARIS II - Galandage 2 vantaux refoulement 2 côtés",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "SOII",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 49,
+    "nom": "SOLARIS II - Galandage 2 vantaux refoulement 1 côté",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "SOII",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 50,
+    "nom": "SOLARIS II - Galandage 3 vantaux refoulement 2 côtés",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "SOII",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 51,
+    "nom": "SOLARIS II - Galandage 4 vantaux refoulement 2 côtés",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "SOII",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 265,
+    "nom": "CG-ALU - Baie coulissante 2 vantaux 2 rails (28mm)",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "CG-A",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 266,
+    "nom": "CG-ALU - Baie coulissante 2 vantaux 2 rails (24mm)",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "CG-A",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 267,
+    "nom": "CG-ALU - Baie coulissante 2 vantaux 2 rails",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "CG-A",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 268,
+    "nom": "CG-ALU - Baie coulissante 2 vantaux 2 rails",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "CG-A",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 269,
+    "nom": "CG-ALU - Baie coulissante 2 vantaux 2 rails",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "CG-A",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 270,
+    "nom": "CG-ALU - Baie coulissante 2 vantaux 2 rails",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "CG-A",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 271,
+    "nom": "CG-ALU - Baie coulissante 2 vantaux 2 rails",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "CG-A",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 272,
+    "nom": "CG-ALU - Baie coulissante 2 vantaux 2 rails",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "CG-A",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 157,
+    "nom": "BOIS - Coulissant 2 vtx avec 1 traverse horizontale et 2 meneaux par vtl",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 52,
+    "nom": "CAPITALES - Athenes 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 2,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 53,
+    "nom": "CAPITALES - Berlin 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 2,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 54,
+    "nom": "CAPITALES - Edimbourg 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 55,
+    "nom": "CAPITALES - Copenhague 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 1,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 56,
+    "nom": "CAPITALES - Dublin 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 1,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 57,
+    "nom": "CAPITALES - Madrid 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 219,
+    "nom": "CAPITALES MD76 - Athenes 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 2,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 220,
+    "nom": "CAPITALES MD76 - Berlin 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 2,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 221,
+    "nom": "CAPITALES MD76 - Edimbourg 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 222,
+    "nom": "CAPITALES MD76 - Copenhague 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 1,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 223,
+    "nom": "CAPITALES MD76 - Dublin 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 1,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 224,
+    "nom": "CAPITALES MD76 - Madrid 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 58,
+    "nom": "FLEUVES ET RIVIERES - 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 225,
+    "nom": "FLEUVES ET RIVIERES MD76- 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 59,
+    "nom": "HYLLIADE - 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "HYLL",
+    "nb_vitrages": 0,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 226,
+    "nom": "HYLLIADE MD76- 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "HYLL",
+    "nb_vitrages": 0,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 60,
+    "nom": "LUMIS - Bois 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 61,
+    "nom": "LUMIS - PVC INNONOVA 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 227,
+    "nom": "LUMIS - PVC MD76 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 62,
+    "nom": "LUMIS - Alu 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "ALLI",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 63,
+    "nom": "ALLIS - 1 vantail",
+    "famille": "PORTES D'ENTREE",
+    "gamme": null,
+    "gamme_code": "ALLI",
+    "nb_vitrages": 0,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 64,
+    "nom": "BOIS - Porte crémone 1 vantail avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 237,
+    "nom": "BOIS - Porte crémone 1 vantail avec soubassement (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 115,
+    "nom": "BOIS - Porte crémone 1 vantail vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 238,
+    "nom": "BOIS - Porte crémone 1 vantail vitrée toute hauteur (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 65,
+    "nom": "BOIS - Porte serrure 1 vantail avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 239,
+    "nom": "BOIS - Porte serrure 1 vantail avec soubassement  (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 116,
+    "nom": "BOIS - Porte serrure 1 vantail vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 240,
+    "nom": "BOIS - Porte serrure 1 vantail vitrée toute hauteur (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 66,
+    "nom": "BOIS - Porte crémone 2 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 241,
+    "nom": "BOIS - Porte crémone 2 vantaux avec soubassement (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 117,
+    "nom": "BOIS - Porte crémone 2 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 242,
+    "nom": "BOIS - Porte crémone 2 vantaux vitrée toute hauteur (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 67,
+    "nom": "BOIS - Porte serrure 2 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 243,
+    "nom": "BOIS - Porte serrure 2 vantaux avec soubassement (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 118,
+    "nom": "BOIS - Porte serrure 2 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 244,
+    "nom": "BOIS - Porte serrure 2 vantaux vitrée toute hauteur (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 68,
+    "nom": "BOIS - Porte crémone 2 vantaux + 1 fixe latéral avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 245,
+    "nom": "BOIS - Porte crémone 2 vantaux + 1 fixe latéral avec soubassement (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 119,
+    "nom": "BOIS - Porte crémone 2 vantaux + 1 fixe latéral vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 246,
+    "nom": "BOIS - Porte crémone 2 vantaux + 1 fixe latéral vitrée toute hauteur (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 69,
+    "nom": "BOIS - Porte serrure 2 vantaux + 1 fixe latéral avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 247,
+    "nom": "BOIS - Porte serrure 2 vantaux + 1 fixe latéral avec soubassement (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 120,
+    "nom": "BOIS - Porte serrure 2 vantaux + 1 fixe latéral vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 248,
+    "nom": "BOIS - Porte serrure 2 vantaux + 1 fixe latéral vitrée toute hauteur (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 70,
+    "nom": "BOIS - Porte crémone 3 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 249,
+    "nom": "BOIS - Porte crémone 3 vantaux avec soubassement (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 121,
+    "nom": "BOIS - Porte crémone 3 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 250,
+    "nom": "BOIS - Porte crémone 3 vantaux vitrée toute hauteur (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 71,
+    "nom": "BOIS - Porte serrure 3 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 251,
+    "nom": "BOIS - Porte serrure 3 vantaux avec soubassement (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 122,
+    "nom": "BOIS - Porte serrure 3 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 252,
+    "nom": "BOIS - Porte serrure 3 vantaux vitrée toute hauteur (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 72,
+    "nom": "BOIS - Porte crémone 2 vantaux + 2 fixes latéraux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 253,
+    "nom": "BOIS - Porte crémone 2 vantaux + 2 fixes latéraux avec soubassement (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 123,
+    "nom": "BOIS - Porte crémone 2 vantaux + 2 fixes latéraux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 254,
+    "nom": "BOIS - Porte crémone 2 vantaux + 2 fixes latéraux vitrée toute hauteur (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 73,
+    "nom": "BOIS - Porte serrure 2 vantaux + 2 fixes latéraux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 255,
+    "nom": "BOIS - Porte serrure 2 vantaux + 2 fixes latéraux avec soubassement (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 124,
+    "nom": "BOIS - Porte serrure 2 vantaux + 2 fixes latéraux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 256,
+    "nom": "BOIS - Porte serrure 2 vantaux + 2 fixes latéraux vitrée toute hauteur (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 74,
+    "nom": "BOIS - Porte crémone 4 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 257,
+    "nom": "BOIS - Porte crémone 4 vantaux avec soubassement (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 125,
+    "nom": "BOIS - Porte crémone 4 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 258,
+    "nom": "BOIS - Porte crémone 4 vantaux vitrée toute hauteur (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 75,
+    "nom": "BOIS - Porte serrure 4 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 259,
+    "nom": "BOIS - Porte serrure 4 vantaux avec soubassement (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 126,
+    "nom": "BOIS - Porte serrure 4 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 260,
+    "nom": "BOIS - Porte serrure 4 vantaux vitrée toute hauteur (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 76,
+    "nom": "BOIS - Porte service",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 261,
+    "nom": "BOIS - Porte service (ouvrant épaissi)",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "BOIS",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 184,
+    "nom": "CARLIS.J - Porte crémone 1 vantail avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 185,
+    "nom": "CARLIS.J - Porte crémone 1 vantail vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 186,
+    "nom": "CARLIS.J - Porte serrure 1 vantail avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 187,
+    "nom": "CARLIS.J - Porte serrure 1 vantail vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 188,
+    "nom": "CARLIS.J - Porte crémone 2 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 189,
+    "nom": "CARLIS.J - Porte crémone 2 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 190,
+    "nom": "CARLIS.J - Porte serrure 2 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 191,
+    "nom": "CARLIS.J - Porte serrure 2 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 192,
+    "nom": "CARLIS.J - Porte crémone 2 vantaux + 1 fixe latéral avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 193,
+    "nom": "CARLIS.J - Porte crémone 2 vantaux + 1 fixe latéral vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 194,
+    "nom": "CARLIS.J - Porte serrure 2 vantaux + 1 fixe latéral avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 195,
+    "nom": "CARLIS.J - Porte serrure 2 vantaux + 1 fixe latéral vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 196,
+    "nom": "CARLIS.J - Porte crémone 3 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 197,
+    "nom": "CARLIS.J - Porte crémone 3 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 198,
+    "nom": "CARLIS.J - Porte serrure 3 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 199,
+    "nom": "CARLIS.J - Porte serrure 3 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 200,
+    "nom": "CARLIS.J - Porte crémone 2 vantaux + 2 fixes latéraux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 201,
+    "nom": "CARLIS.J - Porte crémone 2 vantaux + 2 fixes latéraux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 202,
+    "nom": "CARLIS.J - Porte serrure 2 vantaux + 2 fixes latéraux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 203,
+    "nom": "CARLIS.J - Porte serrure 2 vantaux + 2 fixes latéraux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 204,
+    "nom": "CARLIS.J - Porte crémone 4 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 205,
+    "nom": "CARLIS.J - Porte crémone 4 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 206,
+    "nom": "CARLIS.J - Porte serrure 4 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 207,
+    "nom": "CARLIS.J - Porte serrure 4 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 208,
+    "nom": "CARLIS.J - Porte service",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 262,
+    "nom": "CARLIS.J - Oscillo-coulissant 1 vantail + 1 fixe sans soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 263,
+    "nom": "CARLIS.J - Oscillo-coulissant 1 vantail + 1 fixe avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "CARL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 90,
+    "nom": "PRIMELIS - Porte crémone 1 vantail avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 139,
+    "nom": "PRIMELIS - Porte crémone 1 vantail vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 91,
+    "nom": "PRIMELIS - Porte serrure 1 vantail avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 140,
+    "nom": "PRIMELIS - Porte serrure 1 vantail vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 92,
+    "nom": "PRIMELIS - Porte crémone 2 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 141,
+    "nom": "PRIMELIS - Porte crémone 2 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 93,
+    "nom": "PRIMELIS - Porte serrure 2 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 142,
+    "nom": "PRIMELIS - Porte serrure 2 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 94,
+    "nom": "PRIMELIS - Porte crémone 2 vantaux + 1 fixe latéral avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 143,
+    "nom": "PRIMELIS - Porte crémone 2 vantaux + 1 fixe latéral vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 95,
+    "nom": "PRIMELIS - Porte serrure 2 vantaux + 1 fixe latéral avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 144,
+    "nom": "PRIMELIS - Porte serrure 2 vantaux + 1 fixe latéral vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 96,
+    "nom": "PRIMELIS - Porte crémone 3 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 145,
+    "nom": "PRIMELIS - Porte crémone 3 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 97,
+    "nom": "PRIMELIS - Porte serrure 3 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 146,
+    "nom": "PRIMELIS - Porte serrure 3 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 98,
+    "nom": "PRIMELIS - Porte crémone 2 vantaux + 2 fixes latéraux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 147,
+    "nom": "PRIMELIS - Porte crémone 2 vantaux + 2 fixes latéraux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 99,
+    "nom": "PRIMELIS - Porte serrure 2 vantaux + 2 fixes latéraux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 148,
+    "nom": "PRIMELIS - Porte serrure 2 vantaux + 2 fixes latéraux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 100,
+    "nom": "PRIMELIS - Porte crémone 4 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 149,
+    "nom": "PRIMELIS - Porte crémone 4 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 101,
+    "nom": "PRIMELIS - Porte serrure 4 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 4,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 150,
+    "nom": "PRIMELIS - Porte serrure 4 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 4,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 102,
+    "nom": "PRIMELIS - Porte service",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "PRIM",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 168,
+    "nom": "EVOLUTION - Porte crémone 1 vantail vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 169,
+    "nom": "EVOLUTION - Porte crémone 1 vantail avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 170,
+    "nom": "EVOLUTION - Porte serrure 1 vantail vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 171,
+    "nom": "EVOLUTION - Porte serrure 1 vantail avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 1,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 172,
+    "nom": "EVOLUTION - Porte crémone 2 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 173,
+    "nom": "EVOLUTION - Porte crémone 2 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 174,
+    "nom": "EVOLUTION - Porte serrure 2 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 175,
+    "nom": "EVOLUTION - Porte serrure 2 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 2,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 176,
+    "nom": "EVOLUTION - Porte crémone 2 vantaux + 1 fixe latéral vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 177,
+    "nom": "EVOLUTION - Porte crémone 2 vantaux + 1 fixe latéral avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 178,
+    "nom": "EVOLUTION - Porte serrure 2 vantaux + 1 fixe latéral vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 179,
+    "nom": "EVOLUTION - Porte serrure 2 vantaux + 1 fixe latéral avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 180,
+    "nom": "EVOLUTION - Porte crémone 3 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 181,
+    "nom": "EVOLUTION - Porte crémone 3 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 182,
+    "nom": "EVOLUTION - Porte serrure 3 vantaux vitrée toute hauteur",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 183,
+    "nom": "EVOLUTION - Porte serrure 3 vantaux avec soubassement",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "EVOL",
+    "nb_vitrages": 3,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 1,
+    "nom": "IFH",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Impression blanche",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Blanc - RAL 9010",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Blanc gris - RAL 9002",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 1
+  },
+  {
+    "id": 2,
+    "nom": "Bleu distant - RAL 5023",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 2
+  },
+  {
+    "id": 3,
+    "nom": "Bleu gentiane - RAL 5010",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 3
+  },
+  {
+    "id": 2,
+    "nom": "Gris agathe - RAL 7038",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 4
+  },
+  {
+    "id": 4,
+    "nom": "Gris anthracite - RAL 7016",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Ivoire - RAL 1015",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 2,
+    "nom": "Rouge pourpre - RAL 3004",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Vert mousse - RAL 6005",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 2,
+    "nom": "Vert pâle - RAL 6021",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Blanc trafic - RAL 9016",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Acajou",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Anteak",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Anthracite foncé",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Anthracite Stylo",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Argent",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Blanc - RAL 9010",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Bleu acier - RAL 5011",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 2,
+    "nom": "Bleu brillant - RAL 5007",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Brun chocolat - RAL 8875",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Brun foncé",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 2,
+    "nom": "Chêne clair irlandais",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Chêne doré",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 2,
+    "nom": "Gris agathe - RAL 7038",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Gris anthracite - RAL 7016",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 2,
+    "nom": "Gris argent - RAL 7001",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Gris basalte",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Gris quartz",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Noir brun - RAL 8518",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Noyer",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 2,
+    "nom": "Platine",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 2,
+    "nom": "Rouge foncé - RAL 3081",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 2,
+    "nom": "Rouge vin - RAL 3005",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Silice",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Ton pierre - RAL 9001",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Vert mousse - RAL 6005",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Blanc trafic - RAL 9016",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Chêne doré",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 2,
+    "nom": "Gris - RAL 7047",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Ton pierre - RAL 9001",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Blanc Trafic - RAL 9016",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 1,
+    "nom": "Blanc Crème - RAL 9001",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Gris AS1",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Gris Anthracite - RAL 7016",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Noir 2100",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 2,
+    "nom": "Ivoire Clair - RAL 1015",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Bronze 1247",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Gris 2800",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Gris 2900",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Rouge Pourpre - RAL 3004",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Bleu Acier - RAL 5011",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Vert Mousse - RAL 6005",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Gris Beige - RAL 7006",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Gris Terre d'ombre - RAL 7022",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Gris Telegris 4 - RAL 7047",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Anodic Ice",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Noir Profond - RAL 9005",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Aluminium Gris - RAL 9007",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 4,
+    "nom": "Bleu Canon",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  },
+  {
+    "id": 3,
+    "nom": "Chêne Doré",
+    "famille": "PORTES CREMONE-SERRURE-SERVICE",
+    "gamme": null,
+    "gamme_code": "INNO",
+    "nb_vitrages": 0,
+    "nb_panneaux": 0
+  }
+]

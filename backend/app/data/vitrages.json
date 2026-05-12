@@ -1,0 +1,4642 @@
+[
+  {
+    "composition": "4FE/16argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.65,
+    "Sg1": 0.65,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Lumi/16argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.71,
+    "Sg1": 0.71,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.83
+  },
+  {
+    "composition": "4Eclaz Zen/16argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.58,
+    "Sg1": 0.58,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4FE/18argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.65,
+    "Sg1": 0.65,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Lumi/18argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.71,
+    "Sg1": 0.71,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.83
+  },
+  {
+    "composition": "4FE/20argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.65,
+    "Sg1": 0.65,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Lumi/20argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.71,
+    "Sg1": 0.71,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.83
+  },
+  {
+    "composition": "4/14argon/44/2FE Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4/14argon/44/2Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.7
+  },
+  {
+    "composition": "4/14argon/44/2Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.49,
+    "Sg1": 0.49,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4/14argon/44/6Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.7
+  },
+  {
+    "composition": "4/15argon/44/2Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.7
+  },
+  {
+    "composition": "4/15argon/44/2Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.49,
+    "Sg1": 0.49,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4/16argon/44/2Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.7
+  },
+  {
+    "composition": "4/16argon/44/2Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.49,
+    "Sg1": 0.49,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4/18argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.72
+  },
+  {
+    "composition": "4/18argon/6Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "4/18argon/44/2Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.39,
+    "Sg1": 0.39,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.7
+  },
+  {
+    "composition": "4/18argon/44/6Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.39,
+    "Sg1": 0.39,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.7
+  },
+  {
+    "composition": "4/20argon/44/2Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.7
+  },
+  {
+    "composition": "4/20argon/44/2Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.49,
+    "Sg1": 0.49,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4/20argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.72
+  },
+  {
+    "composition": "4FE/10argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.58,
+    "Sg1": 0.58,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4Eclaz Lumi/10argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.66,
+    "Sg1": 0.66,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4FE/10argon/10PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.27,
+    "Sg1": 0.27,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.29
+  },
+  {
+    "composition": "4FE/12argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4Eclaz Lumi/12argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.68,
+    "Sg1": 0.68,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4FE/12argon/8PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.32,
+    "Sg1": 0.32,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.35
+  },
+  {
+    "composition": "4FE/12argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4Eclaz Lumi/12argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.67,
+    "Sg1": 0.67,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4FE/12argon/10PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.27,
+    "Sg1": 0.27,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.29
+  },
+  {
+    "composition": "4FE/12argon/35/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4FE/12argon/35/2ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.34,
+    "Sg1": 0.34,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.4
+  },
+  {
+    "composition": "4FE/12argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4Eclaz Lumi/12argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4/12argon/44/2Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.39,
+    "Sg1": 0.39,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.69
+  },
+  {
+    "composition": "4FE/12argon/55/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.55,
+    "Sg1": 0.55,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "4FE/12argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.55,
+    "Sg1": 0.55,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4Eclaz Lumi/12argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "4FE/14argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "4Eclaz Lumi/14argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4FE/14argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.41
+  },
+  {
+    "composition": "4FE/14argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.48,
+    "Sg1": 0.48,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.59
+  },
+  {
+    "composition": "4FE/14argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.72
+  },
+  {
+    "composition": "4FE/14argon/6Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.2,
+    "Sg": 0.41,
+    "Sg1": 0.41,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.7
+  },
+  {
+    "composition": "4FE/14argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "4Eclaz Lumi/14argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.68,
+    "Sg1": 0.68,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4FE/14argon/8PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.32,
+    "Sg1": 0.32,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.36
+  },
+  {
+    "composition": "4FE/14argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4Eclaz Lumi/14argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.67,
+    "Sg1": 0.67,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4FE/14argon/10PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.27,
+    "Sg1": 0.27,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.29
+  },
+  {
+    "composition": "4FE/14argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.2,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4FE/14argon/35/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4FE/14argon/35/2ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.34,
+    "Sg1": 0.34,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.4
+  },
+  {
+    "composition": "4FE/14argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4Eclaz Lumi/14argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Lumi/14argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4/14argon/44/2Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.39,
+    "Sg1": 0.39,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.69
+  },
+  {
+    "composition": "4FE/14argon/55/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.55,
+    "Sg1": 0.55,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "4FE/14argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.58,
+    "Sg1": 0.58,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4/14argon/44/6Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "4FE/15argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4/15argon/44/2Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "4Eclaz Lumi/15argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4FE/16argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.45,
+    "Sg1": 0.45,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.54
+  },
+  {
+    "composition": "4FE/16argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.43,
+    "Sg1": 0.43,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.49
+  },
+  {
+    "composition": "4FE/16argon/4BIOCLEAN+",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.63,
+    "Sg1": 0.63,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4/16argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.72
+  },
+  {
+    "composition": "4/16argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4/18argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4/20argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4FE/16argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "4Eclaz Lumi/16argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "4Eclaz Zen/14argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4Eclaz Zen/14argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4Eclaz Zen/14argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Zen/14argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.52,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "4Eclaz Zen/16argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.52,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "4Eclaz Zen/15argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Zen/16argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4FE/16argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.41
+  },
+  {
+    "composition": "4FE/16argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.48,
+    "Sg1": 0.48,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.59
+  },
+  {
+    "composition": "4FE/16argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.44
+  },
+  {
+    "composition": "4FE/16argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.39
+  },
+  {
+    "composition": "4FE/16argon/6Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.41,
+    "Sg1": 0.41,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.7
+  },
+  {
+    "composition": "4FE/16argon/6COOL-LITE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.3,
+    "Sg1": 0.3,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.61
+  },
+  {
+    "composition": "4FE/16argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.63,
+    "Sg1": 0.63,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4Eclaz Lumi/16argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.68,
+    "Sg1": 0.68,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Zen/16argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4FE/16argon/8PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.31,
+    "Sg1": 0.31,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.35
+  },
+  {
+    "composition": "4FE/16argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.58,
+    "Sg1": 0.58,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4FE/16argon/10PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.27,
+    "Sg1": 0.27,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.29
+  },
+  {
+    "composition": "4FE/16argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4FE/16argon/35/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4FE/16argon/35/2ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.34,
+    "Sg1": 0.34,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.4
+  },
+  {
+    "composition": "4FE/16argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4/16argon/44/2Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "4Eclaz Lumi/16argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Zen/16argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Lumi/16argon/44/2REFLECHISSANT CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.34,
+    "Sg1": 0.34,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.35
+  },
+  {
+    "composition": "4FE/16argon/55/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.55,
+    "Sg1": 0.55,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "4FE/16argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "4Eclaz Zen/16argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "4FE/18argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.46,
+    "Sg1": 0.46,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.55
+  },
+  {
+    "composition": "4FE/18argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.44,
+    "Sg1": 0.44,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.5
+  },
+  {
+    "composition": "4FE/18argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.72
+  },
+  {
+    "composition": "4FE/20argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.72
+  },
+  {
+    "composition": "4FE/18argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "4Eclaz Zen/18argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4Eclaz ZEn/18argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.58,
+    "Sg1": 0.58,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4Eclaz Lumi/18argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.67,
+    "Sg1": 0.67,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Lumi/18argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Lumi/18argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.69,
+    "Sg1": 0.69,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.83
+  },
+  {
+    "composition": "4Eclaz Zen/18argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.52,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "4FE/18argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.41
+  },
+  {
+    "composition": "4FE/18argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.48,
+    "Sg1": 0.48,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.59
+  },
+  {
+    "composition": "4FE/18argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.43
+  },
+  {
+    "composition": "4FE/18argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.38
+  },
+  {
+    "composition": "4FE/18argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4FE/18argon/8PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.31,
+    "Sg1": 0.31,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.35
+  },
+  {
+    "composition": "4FE/18argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4FE/18argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4FE/18argon/35/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4FE/18argon/35/2ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.34,
+    "Sg1": 0.34,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.4
+  },
+  {
+    "composition": "4FE/18argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4/18argon/44/6Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "4FE/20argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.45,
+    "Sg1": 0.45,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.54
+  },
+  {
+    "composition": "4FE/20argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.43,
+    "Sg1": 0.43,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.49
+  },
+  {
+    "composition": "4FE/20argon/4BIOCLEAN+",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.63,
+    "Sg1": 0.63,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4Eclaz Lumi/20argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.71,
+    "Sg1": 0.71,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.83
+  },
+  {
+    "composition": "4Eclaz Zen/20argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4Eclaz Zen/20argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Zen/20argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.52,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "4Eclaz Zen/20argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.58,
+    "Sg1": 0.58,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4/20argon/4Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.67,
+    "Sg1": 0.67,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.83
+  },
+  {
+    "composition": "4FE/20argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "4FE/20argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.41
+  },
+  {
+    "composition": "4FE/20argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.48,
+    "Sg1": 0.48,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.59
+  },
+  {
+    "composition": "4FE/20argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.43
+  },
+  {
+    "composition": "4FE/20argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.38
+  },
+  {
+    "composition": "4FE/20argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4/20argon/44/2Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "4Eclaz Lumi/20argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4FE/20argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.58,
+    "Sg1": 0.58,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4FE1.0/20argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.51,
+    "Sg1": 0.51,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "4FE/20argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "4Eclaz Lumi/20argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.68,
+    "Sg1": 0.68,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "6/12argon/44/2Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.69,
+    "Sg1": 0.69,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "6/14argon/44/2Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.69,
+    "Sg1": 0.69,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "6/14argon/4FE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "6/16argon/4FE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "6/18argon/4FE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "6/14argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6/14argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "6/14argon/6Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6/16argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6/16argon/6Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6/16argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "6/18argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6/18argon/6Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6/18argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "6FE/8argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "6FE/10argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "6FE/10argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.55,
+    "Sg1": 0.55,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6FE/12argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "6/12argon/6Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "6/12argon/6Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6/12argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6FE/12argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.4
+  },
+  {
+    "composition": "6FE/12argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.48,
+    "Sg1": 0.48,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.59
+  },
+  {
+    "composition": "6FE/12argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.43
+  },
+  {
+    "composition": "6FE/12argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.38
+  },
+  {
+    "composition": "6FE/12argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "6FE/12argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "6/12argon/44/2Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "6FE/12argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "6FE/14argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.45,
+    "Sg1": 0.45,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.53
+  },
+  {
+    "composition": "6FE/14argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.43,
+    "Sg1": 0.43,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.49
+  },
+  {
+    "composition": "6/14argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "6FE/14argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "6/14argon/6Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "6/14argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6FE/14argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.4
+  },
+  {
+    "composition": "6FE/14argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.48,
+    "Sg1": 0.48,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.59
+  },
+  {
+    "composition": "6FE/14argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.44
+  },
+  {
+    "composition": "6FE/14argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.39
+  },
+  {
+    "composition": "6FE/14argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "6FE/14argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "6/14argon/44/2Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "6FE/14argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "6FE/16argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.63,
+    "Sg1": 0.63,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6/16argon/4Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.69,
+    "Sg1": 0.69,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.83
+  },
+  {
+    "composition": "6/16argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6/16argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "6FE/16argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.45,
+    "Sg1": 0.45,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.53
+  },
+  {
+    "composition": "6FE/16argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.43,
+    "Sg1": 0.43,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.49
+  },
+  {
+    "composition": "6FE/16argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "6/16argon/6Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "6/16argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6FE/16argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.4
+  },
+  {
+    "composition": "6FE/16argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.48,
+    "Sg1": 0.48,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.59
+  },
+  {
+    "composition": "6FE/16argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.43
+  },
+  {
+    "composition": "6FE/16argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.38
+  },
+  {
+    "composition": "6FE1.0/16argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.51,
+    "Sg1": 0.51,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "6FE/16argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "6FE/16argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "6FE/16argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6FE/16argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6FE/16argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "6FE/18argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.63,
+    "Sg1": 0.63,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6/18argon/4Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.67,
+    "Sg1": 0.67,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.83
+  },
+  {
+    "composition": "6FE/18argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.45,
+    "Sg1": 0.45,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.53
+  },
+  {
+    "composition": "6FE/18argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.43,
+    "Sg1": 0.43,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.49
+  },
+  {
+    "composition": "6FE/18argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "6FE/18argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.4
+  },
+  {
+    "composition": "6FE/18argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.48,
+    "Sg1": 0.48,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.59
+  },
+  {
+    "composition": "6FE/18argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.43
+  },
+  {
+    "composition": "6FE/18argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.38
+  },
+  {
+    "composition": "6FE/18argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "6FE/20argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.63,
+    "Sg1": 0.63,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "6FE/20argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.45,
+    "Sg1": 0.45,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.53
+  },
+  {
+    "composition": "6FE/20argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.43,
+    "Sg1": 0.43,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.49
+  },
+  {
+    "composition": "6Eclaz Lumi/12argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.69,
+    "Sg1": 0.69,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "6Eclaz Lumi/14argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.69,
+    "Sg1": 0.69,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "6Eclaz Lumi/16argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.69,
+    "Sg1": 0.69,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "8/14argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "8/14argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "8/16argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "8/20argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "8/20argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "10/10/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.9,
+    "Sg": 0.75,
+    "Sg1": 0.75,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "10/12/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.7,
+    "Sg": 0.78,
+    "Sg1": 0.78,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "10/12/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.7,
+    "Sg": 0.75,
+    "Sg1": 0.75,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "10/16/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.7,
+    "Sg": 0.75,
+    "Sg1": 0.75,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "10/14argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "10/14argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "10/18argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "10/18argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2/12/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.8,
+    "Sg": 0.72,
+    "Sg1": 0.72,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2/14/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.8,
+    "Sg": 0.75,
+    "Sg1": 0.75,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2/14/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.8,
+    "Sg": 0.73,
+    "Sg1": 0.73,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2/14argon/4FE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2/15argon/4FE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2/16argon/4FE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2/16/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.7,
+    "Sg": 0.75,
+    "Sg1": 0.75,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2/10argon/44/2FE Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2/14argon/44/2FE Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE/6argon/35/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.0,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE/6argon/35/2ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.0,
+    "Sg": 0.34,
+    "Sg1": 0.34,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.39
+  },
+  {
+    "composition": "44/2FE/6argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.0,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE/6argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.0,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/2FE/8argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2Eclaz Lumi/8argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.67,
+    "Sg1": 0.67,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "44/2FE/8argon/8PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.32,
+    "Sg1": 0.32,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.35
+  },
+  {
+    "composition": "44/2FE/8argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2Eclaz Lumi/8argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.65,
+    "Sg1": 0.65,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE/8argon/10PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.28,
+    "Sg1": 0.28,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.28
+  },
+  {
+    "composition": "44/2FE/8argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE/8argon/35/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2FE/8argon/35/2ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.34,
+    "Sg1": 0.34,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.39
+  },
+  {
+    "composition": "44/2FE/8argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2FE/8argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/2Eclaz Lumi/8argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE/10argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2Eclaz Lumi/10argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "44/2FE/10argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.4
+  },
+  {
+    "composition": "44/2FE/10argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.47,
+    "Sg1": 0.47,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.58
+  },
+  {
+    "composition": "44/2FE/10argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.42
+  },
+  {
+    "composition": "44/2FE/10argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.37
+  },
+  {
+    "composition": "44/2FE/10argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2Eclaz Lumi/10argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.67,
+    "Sg1": 0.67,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "44/2FE/10argon/8PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.32,
+    "Sg1": 0.32,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.35
+  },
+  {
+    "composition": "44/2FE/10argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2Eclaz Lumi/10argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.66,
+    "Sg1": 0.66,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE/10argon/10PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.27,
+    "Sg1": 0.27,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.28
+  },
+  {
+    "composition": "44/2FE/10argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.58,
+    "Sg1": 0.58,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2FE/10argon/35/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE/10argon/35/2ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.34,
+    "Sg1": 0.34,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.39
+  },
+  {
+    "composition": "44/2FE/10argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2Eclaz Lumi/10argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE/10argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/2FE/12argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2Eclaz Lumi/12argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.7,
+    "Sg1": 0.7,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "44/2FE/12argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.45,
+    "Sg1": 0.45,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.52
+  },
+  {
+    "composition": "44/2FE/12argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.43,
+    "Sg1": 0.43,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.48
+  },
+  {
+    "composition": "44/2FE/12argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.63,
+    "Sg1": 0.63,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2Eclaz Lumi/12argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.68,
+    "Sg1": 0.68,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "44/2FE/12argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.39
+  },
+  {
+    "composition": "44/2FE/12argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.47,
+    "Sg1": 0.47,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.57
+  },
+  {
+    "composition": "44/2FE/12argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.42
+  },
+  {
+    "composition": "44/2FE/12argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.37
+  },
+  {
+    "composition": "44/2FE/12argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2Eclaz Lumi/12argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.67,
+    "Sg1": 0.67,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "44/2FE/12argon/8PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.31,
+    "Sg1": 0.31,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.35
+  },
+  {
+    "composition": "44/2FE/12argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE/12argon/10PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.27,
+    "Sg1": 0.27,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.28
+  },
+  {
+    "composition": "44/2FE/12argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE/12argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE/12argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/2FE/14argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2/14argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "44/2/14argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2Eclaz Lumi/14argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.65,
+    "Sg1": 0.65,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE/14argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.45,
+    "Sg1": 0.45,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.52
+  },
+  {
+    "composition": "44/2FE/14argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.43,
+    "Sg1": 0.43,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.48
+  },
+  {
+    "composition": "44/2FE/14argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2Eclaz Lumi/14argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.69,
+    "Sg1": 0.69,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "44/2FE/14argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.4
+  },
+  {
+    "composition": "44/2FE/14argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.47,
+    "Sg1": 0.47,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.58
+  },
+  {
+    "composition": "44/2FE/14argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.42
+  },
+  {
+    "composition": "44/2FE/14argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.37
+  },
+  {
+    "composition": "44/2FE/14argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE/14argon/8PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.32,
+    "Sg1": 0.32,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.35
+  },
+  {
+    "composition": "44/2FE/14argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE/14argon/10PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.26,
+    "Sg1": 0.26,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.28
+  },
+  {
+    "composition": "44/2FE/14argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE/14argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE/14argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/2FE/15argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2/15argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "44/2/15argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2/15argon/4Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.66,
+    "Sg1": 0.66,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "44/2Eclaz Lumi/15argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.65,
+    "Sg1": 0.65,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE/16argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2/16argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "44/2/16argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2Eclaz Lumi/16argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.7,
+    "Sg1": 0.7,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "44/2FE/16argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.45,
+    "Sg1": 0.45,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.52
+  },
+  {
+    "composition": "44/2FE/16argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.43,
+    "Sg1": 0.43,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.48
+  },
+  {
+    "composition": "44/2/16argon/4Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.66,
+    "Sg1": 0.66,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "44/2/14argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.55,
+    "Sg1": 0.55,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2/16argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.55,
+    "Sg1": 0.55,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2/20argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.55,
+    "Sg1": 0.55,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2FE/16argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE/16argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.39
+  },
+  {
+    "composition": "44/2FE/16argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.47,
+    "Sg1": 0.47,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.57
+  },
+  {
+    "composition": "44/2FE/16argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.42
+  },
+  {
+    "composition": "44/2FE/16argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.37
+  },
+  {
+    "composition": "²",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE/16argon/8PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.32,
+    "Sg1": 0.32,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.35
+  },
+  {
+    "composition": "44/2FE/16argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE/16argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.58,
+    "Sg1": 0.58,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE/16argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2Eclaz Lumi/16argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE/18argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2FE/18argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.45,
+    "Sg1": 0.45,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.52
+  },
+  {
+    "composition": "44/2FE/18argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.43,
+    "Sg1": 0.43,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.48
+  },
+  {
+    "composition": "44/2FE/20argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2/20argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.71
+  },
+  {
+    "composition": "44/2/20argon/4Eclaz Zen",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2Eclaz Lumi/20argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.7,
+    "Sg1": 0.7,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "44/2FE Silence/6argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.0,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE Silence/6argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.0,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/2FE Silence/8argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE Silence/8argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE Silence/8argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE Silence/8argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2Eclaz Lumi/8argon/44/2 Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE Silence/8argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/2FE Silence/10argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE Silence/10argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE Silence/10argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE Silence/10argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.58,
+    "Sg1": 0.58,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2FE Silence/10argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2Eclaz Lumi/10argon/44/2 Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE Silence/12argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4Eclaz Lumi/12argon/44/2 Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "44/2FE Silence/12argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE Silence/12argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE Silence/12argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE Silence/12argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE Silence/12argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE Silence/12argon/44/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/2FE Silence/14argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4Eclaz Lumi/14argon/44/2 Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "44/2FE Silence/14argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE Silence/14argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.59,
+    "Sg1": 0.59,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE Silence/14argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2FE Silence/14argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2Eclaz Lumi/14argon/44/ Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE Silence/15argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2FE Silence/16argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4Eclaz Lumi/16argon/44/2 Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Zen/16argon/44/2 Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.0,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "4Eclaz Lumi/15argon/44/2 Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.82
+  },
+  {
+    "composition": "4Eclaz Zen/15argon/44/2 Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2FE Silence/16argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/2FE Silence/16argon/8",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2FE Silence/16argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2FE Silence/16argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.58,
+    "Sg1": 0.58,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE Silence/16argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/2 Eclaz Lumi/16argon/44/2 Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE Silence/16argon/55/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2FE Silence/18argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/2FE Silence/20argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.8
+  },
+  {
+    "composition": "44/2FE Silence/20argon/64/2 Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.54,
+    "Sg1": 0.54,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/2FE Silence/20argon/66/2 Silence",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/6/12/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.8,
+    "Sg": 0.71,
+    "Sg1": 0.71,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/6/14/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.8,
+    "Sg": 0.73,
+    "Sg1": 0.73,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/6FE/6argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 2.0,
+    "Sg": 0.55,
+    "Sg1": 0.55,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/6FE/8argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/6FE/8argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.42
+  },
+  {
+    "composition": "44/6FE/8argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.37
+  },
+  {
+    "composition": "44/6FE/8argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/6FE/8argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.55,
+    "Sg1": 0.55,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/6/8argon/44/2Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.7,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/6FE/10argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/6/10argon/4Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.66,
+    "Sg1": 0.66,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.81
+  },
+  {
+    "composition": "44/6FE/10argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.44,
+    "Sg1": 0.44,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.52
+  },
+  {
+    "composition": "44/6FE/10argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.43,
+    "Sg1": 0.43,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.47
+  },
+  {
+    "composition": "44/6FE/10argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/6FE/10argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.39
+  },
+  {
+    "composition": "44/6FE/10argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.47,
+    "Sg1": 0.47,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.57
+  },
+  {
+    "composition": "44/6FE/10argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.43
+  },
+  {
+    "composition": "44/6FE/10argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.38
+  },
+  {
+    "composition": "44/6FE/10argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/6FE/10argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/6/10argon/44/2Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.4,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/6FE/12argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.61,
+    "Sg1": 0.61,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/6FE/12argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.45,
+    "Sg1": 0.45,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.53
+  },
+  {
+    "composition": "44/6FE/12argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.43,
+    "Sg1": 0.43,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.49
+  },
+  {
+    "composition": "44/6FE/12argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/6FE/12argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.39
+  },
+  {
+    "composition": "44/6FE/12argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.47,
+    "Sg1": 0.47,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.57
+  },
+  {
+    "composition": "44/6FE/12argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.42
+  },
+  {
+    "composition": "44/6FE/12argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.37
+  },
+  {
+    "composition": "44/6FE/12argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/6FE/12argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.3,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/6FE/14argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/6/14argon/4Eclaz Lumi",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.64,
+    "Sg1": 0.64,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.79
+  },
+  {
+    "composition": "44/6/14argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.7
+  },
+  {
+    "composition": "44/6FE/14argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.44,
+    "Sg1": 0.44,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.52
+  },
+  {
+    "composition": "44/6FE/14argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.42,
+    "Sg1": 0.42,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.47
+  },
+  {
+    "composition": "44/6FE/14argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/6FE/14argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.39
+  },
+  {
+    "composition": "44/6FE/14argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.47,
+    "Sg1": 0.47,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.57
+  },
+  {
+    "composition": "44/6FE/14argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.42
+  },
+  {
+    "composition": "44/6FE/14argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.37
+  },
+  {
+    "composition": "44/6FE/14argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/6FE/14argon/44/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.56,
+    "Sg1": 0.56,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/6FE/16argon/4",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.62,
+    "Sg1": 0.62,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "44/6FE/16argon/4PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.44,
+    "Sg1": 0.44,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.52
+  },
+  {
+    "composition": "44/6FE/16argon/4PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.42,
+    "Sg1": 0.42,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.47
+  },
+  {
+    "composition": "44/6FE/16argon/6",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/6FE/16argon/6ANTELIO CLAIR",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.36,
+    "Sg1": 0.36,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.39
+  },
+  {
+    "composition": "44/6FE/16argon/6ANTELIO ARGENT",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.47,
+    "Sg1": 0.47,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.57
+  },
+  {
+    "composition": "44/6FE/16argon/6PARSOL BRONZE",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.37,
+    "Sg1": 0.37,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.42
+  },
+  {
+    "composition": "44/6FE/16argon/6PARSOL GRIS",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.35,
+    "Sg1": 0.35,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.37
+  },
+  {
+    "composition": "44/6FE/16argon/33/2",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.57,
+    "Sg1": 0.57,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/6FE/16argon/10",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.78
+  },
+  {
+    "composition": "44/6/18argon/4Eclaz Sun",
+    "type": "DOUBLE VITRAGE",
+    "Ug": 1.1,
+    "Sg": 0.38,
+    "Sg1": 0.38,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.7
+  },
+  {
+    "composition": "4Eclaz Lumi/10argon/4/10argon/4Eclaz Lumi",
+    "type": "TRIPLE VITRAGE",
+    "Ug": 0.8,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "4Eclaz Lumi/12argon/4/12argon/44/2Eclaz Lumi",
+    "type": "TRIPLE VITRAGE",
+    "Ug": 0.7,
+    "Sg": 0.55,
+    "Sg1": 0.55,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "4FE/12argon/4/12argon/4FE",
+    "type": "TRIPLE VITRAGE",
+    "Ug": 0.7,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.74
+  },
+  {
+    "composition": "4Eclaz Lumi/14argon/4/14argon/4Eclaz Lumi",
+    "type": "TRIPLE VITRAGE",
+    "Ug": 0.7,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.77
+  },
+  {
+    "composition": "4Eclaz Zen/16argon/4/16argon/4Eclaz Zen",
+    "type": "TRIPLE VITRAGE",
+    "Ug": 0.5,
+    "Sg": 0.47,
+    "Sg1": 0.47,
+    "Sg2": 0.47,
+    "Sg3": 0.0,
+    "Tlg": 0.7
+  },
+  {
+    "composition": "6Eclaz Lumi/10argon/4/10argon/44/6Eclaz Lumi",
+    "type": "TRIPLE VITRAGE",
+    "Ug": 0.8,
+    "Sg": 0.53,
+    "Sg1": 0.53,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.74
+  },
+  {
+    "composition": "6Eclaz Lumi/12argon/4/12argon/4Eclaz Lumi",
+    "type": "TRIPLE VITRAGE",
+    "Ug": 0.7,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.76
+  },
+  {
+    "composition": "44/2Eclaz Lumi/12argon/4/12argon/4Eclaz Lumi",
+    "type": "TRIPLE VITRAGE",
+    "Ug": 0.7,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/2Eclaz Lumi Silence/12argon/4/12argon/4Eclaz Lumi",
+    "type": "TRIPLE VITRAGE",
+    "Ug": 0.7,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.75
+  },
+  {
+    "composition": "44/6Eclaz Lumi/10argon/4/10argon/6Eclaz Lumi",
+    "type": "TRIPLE VITRAGE",
+    "Ug": 0.8,
+    "Sg": 0.6,
+    "Sg1": 0.6,
+    "Sg2": 0.03,
+    "Sg3": 0.0,
+    "Tlg": 0.74
+  },
+  {
+    "composition": "Panneau Lisse 28mm isolation thermique",
+    "type": "PANNEAUX",
+    "Ug": 1.0,
+    "Sg": 0.0,
+    "Sg1": 0.0,
+    "Sg2": 0.0,
+    "Sg3": 0.0,
+    "Tlg": 0.0
+  },
+  {
+    "composition": "Panneau Plate bande 28",
+    "type": "PANNEAUX",
+    "Ug": 2.4,
+    "Sg": 0.0,
+    "Sg1": 0.0,
+    "Sg2": 0.0,
+    "Sg3": 0.0,
+    "Tlg": 0.0
+  },
+  {
+    "composition": "Panneau lame 28",
+    "type": "PANNEAUX",
+    "Ug": 2.4,
+    "Sg": 0.0,
+    "Sg1": 0.0,
+    "Sg2": 0.0,
+    "Sg3": 0.0,
+    "Tlg": 0.0
+  }
+]

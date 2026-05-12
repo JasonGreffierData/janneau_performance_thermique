@@ -1,0 +1,2928 @@
+[
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.08
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.08
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.08
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.08
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.08
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.08
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.08
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.08
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.08
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.08
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.08
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.05
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "BOIS",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.5,
+    "Psi_g": 0.089
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.089
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.089
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.085
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.082
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.079
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.077
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.075
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.074
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.07
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.067
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.063
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.052
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 0.7,
+    "Psi_g": 0.083
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 0.8,
+    "Psi_g": 0.083
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 0.9,
+    "Psi_g": 0.078
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.0,
+    "Psi_g": 0.075
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.1,
+    "Psi_g": 0.073
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.2,
+    "Psi_g": 0.071
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.3,
+    "Psi_g": 0.069
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.4,
+    "Psi_g": 0.068
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.6,
+    "Psi_g": 0.065
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.8,
+    "Psi_g": 0.061
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 2.0,
+    "Psi_g": 0.058
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 2.6,
+    "Psi_g": 0.048
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.5,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.04
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.042
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.044
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.042
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.041
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.037
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.029
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 0.7,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 0.8,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 0.9,
+    "Psi_g": 0.04
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.0,
+    "Psi_g": 0.042
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.1,
+    "Psi_g": 0.044
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.2,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.3,
+    "Psi_g": 0.042
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.4,
+    "Psi_g": 0.041
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.6,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.8,
+    "Psi_g": 0.037
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 2.0,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 2.6,
+    "Psi_g": 0.029
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.5,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.03
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.032
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.034
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.033
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.032
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.032
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.031
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.029
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.024
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 0.7,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 0.8,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 0.9,
+    "Psi_g": 0.03
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.0,
+    "Psi_g": 0.032
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.1,
+    "Psi_g": 0.034
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.2,
+    "Psi_g": 0.033
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.3,
+    "Psi_g": 0.032
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.4,
+    "Psi_g": 0.032
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.6,
+    "Psi_g": 0.031
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.8,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 2.0,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "INNO",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 2.6,
+    "Psi_g": 0.024
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.5,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.6,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.089
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.089
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.085
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.082
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.069
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.067
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.065
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.064
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.061
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.058
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.055
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.045
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 0.5,
+    "Psi_g": 0.078
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 0.6,
+    "Psi_g": 0.078
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 0.7,
+    "Psi_g": 0.076
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 0.8,
+    "Psi_g": 0.074
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 0.9,
+    "Psi_g": 0.072
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.0,
+    "Psi_g": 0.07
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.1,
+    "Psi_g": 0.068
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.2,
+    "Psi_g": 0.066
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.3,
+    "Psi_g": 0.065
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.4,
+    "Psi_g": 0.063
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.6,
+    "Psi_g": 0.06
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.8,
+    "Psi_g": 0.057
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 2.0,
+    "Psi_g": 0.054
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 2.6,
+    "Psi_g": 0.044
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.5,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.6,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.04
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.041
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.04
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.04
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.036
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.0341
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.032
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 0.5,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 0.6,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 0.7,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 0.8,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 0.9,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.0,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.1,
+    "Psi_g": 0.041
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.2,
+    "Psi_g": 0.04
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.3,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.4,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.6,
+    "Psi_g": 0.036
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.8,
+    "Psi_g": 0.034
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 2.0,
+    "Psi_g": 0.032
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 2.6,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.5,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.6,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.029
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.024
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.023
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.019
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 0.5,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 0.6,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 0.7,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 0.8,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 0.9,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.0,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.1,
+    "Psi_g": 0.03
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.2,
+    "Psi_g": 0.029
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.3,
+    "Psi_g": 0.029
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.4,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.6,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.8,
+    "Psi_g": 0.025
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 2.0,
+    "Psi_g": 0.024
+  },
+  {
+    "gamme": "MD76",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 2.6,
+    "Psi_g": 0.02
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.081
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.081
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.075
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.075
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.07
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.069
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.068
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.067
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.065
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.063
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.061
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.055
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 0.7,
+    "Psi_g": 0.076
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 0.8,
+    "Psi_g": 0.076
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 0.9,
+    "Psi_g": 0.072
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.0,
+    "Psi_g": 0.072
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.1,
+    "Psi_g": 0.067
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.2,
+    "Psi_g": 0.066
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.3,
+    "Psi_g": 0.064
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.4,
+    "Psi_g": 0.063
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.6,
+    "Psi_g": 0.061
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 1.8,
+    "Psi_g": 0.058
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 2.0,
+    "Psi_g": 0.056
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Aluminium",
+    "renfort": "Oui",
+    "Ug": 2.6,
+    "Psi_g": 0.049
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.044
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.044
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.042
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.042
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.041
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.04
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.036
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 0.7,
+    "Psi_g": 0.042
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 0.8,
+    "Psi_g": 0.042
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 0.9,
+    "Psi_g": 0.041
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.0,
+    "Psi_g": 0.041
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.1,
+    "Psi_g": 0.04
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.2,
+    "Psi_g": 0.04
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.3,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.4,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.6,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 1.8,
+    "Psi_g": 0.037
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 2.0,
+    "Psi_g": 0.036
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Oui",
+    "Ug": 2.6,
+    "Psi_g": 0.033
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.029
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.029
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 0.7,
+    "Psi_g": 0.029
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 0.8,
+    "Psi_g": 0.029
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 0.9,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.0,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.1,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.2,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.3,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.4,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.6,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 1.8,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 2.0,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "PRIM",
+    "intercalaire": "Swisspacer",
+    "renfort": "Oui",
+    "Ug": 2.6,
+    "Psi_g": 0.025
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.094
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.092
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.09
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.089
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.087
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.044
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.041
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.04
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.034
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.033
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.032
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.031
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.03
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.029
+  },
+  {
+    "gamme": "EVOL",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.1
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.098
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.097
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.097
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.096
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.09
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.087
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.085
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.042
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.041
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.04
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.037
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.036
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.033
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.032
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.031
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.032
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.03
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.028
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.027
+  },
+  {
+    "gamme": "SOLA",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.026
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.052
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.05
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.042
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.041
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.04
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.039
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.038
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.037
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.036
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.045
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.036
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.034
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.033
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.032
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.031
+  },
+  {
+    "gamme": "CG-A",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.03
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Aluminium",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.084
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Warm-Edge",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.043
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.7,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.8,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 0.9,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.0,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.1,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.2,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.3,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.4,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.6,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.7,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 1.8,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.0,
+    "Psi_g": 0.035
+  },
+  {
+    "gamme": "ALLI",
+    "intercalaire": "Swisspacer",
+    "renfort": "Non",
+    "Ug": 2.6,
+    "Psi_g": 0.035
+  }
+]

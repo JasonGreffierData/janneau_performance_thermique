@@ -1,0 +1,660 @@
+[
+  {
+    "designation": "Bloc Baie - Coffre 170 - Tablier 8*40 PVC",
+    "gammes_compatibles": [
+      "BOIS"
+    ],
+    "rR": 0.187,
+    "hauteur_coffre": 0.17,
+    "uc_coefficients": {
+      "T": {
+        "a": 1.32,
+        "b": 0.46
+      },
+      "P0": {
+        "a": 1.26,
+        "b": 0.46
+      },
+      "P3": {
+        "a": 1.37,
+        "b": 0.44
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Coffre 170 - Tablier 8*40 ALU",
+    "gammes_compatibles": [
+      "BOIS"
+    ],
+    "rR": 0.15,
+    "hauteur_coffre": 0.17,
+    "uc_coefficients": {
+      "T": {
+        "a": 1.32,
+        "b": 0.46
+      },
+      "P0": {
+        "a": 1.26,
+        "b": 0.46
+      },
+      "P3": {
+        "a": 1.37,
+        "b": 0.44
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Coffre 210 - Tablier 11*50 PVC",
+    "gammes_compatibles": [
+      "BOIS"
+    ],
+    "rR": 0.206,
+    "hauteur_coffre": 0.21,
+    "uc_coefficients": {
+      "T": {
+        "a": 1.37,
+        "b": 0.7
+      },
+      "P0": {
+        "a": 0.97,
+        "b": 0.7
+      },
+      "P3": {
+        "a": 1.05,
+        "b": 0.66
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Coffre 210 - Tablier 11*50 ALU",
+    "gammes_compatibles": [
+      "BOIS"
+    ],
+    "rR": 0.15,
+    "hauteur_coffre": 0.21,
+    "uc_coefficients": {
+      "T": {
+        "a": 1.37,
+        "b": 0.7
+      },
+      "P0": {
+        "a": 0.97,
+        "b": 0.7
+      },
+      "P3": {
+        "a": 1.05,
+        "b": 0.66
+      }
+    }
+  },
+  {
+    "designation": "Reno'Pack - Coffre 137 - Tablier 8*40 PVC",
+    "gammes_compatibles": [
+      "INNO",
+      "CARL",
+      "SOLA",
+      "SOII"
+    ],
+    "rR": 0.187,
+    "hauteur_coffre": 0.137,
+    "uc_coefficients": {}
+  },
+  {
+    "designation": "Reno'Pack - Coffre 137 - Tablier 8*40 ALU",
+    "gammes_compatibles": [
+      "INNO",
+      "CARL",
+      "SOLA",
+      "SOII"
+    ],
+    "rR": 0.15,
+    "hauteur_coffre": 0.137,
+    "uc_coefficients": {}
+  },
+  {
+    "designation": "Reno'Pack - Coffre 150 - Tablier 8*40 PVC",
+    "gammes_compatibles": [
+      "INNO",
+      "CARL",
+      "SOLA",
+      "SOII"
+    ],
+    "rR": 0.187,
+    "hauteur_coffre": 0.15,
+    "uc_coefficients": {}
+  },
+  {
+    "designation": "Reno'Pack - Coffre 150 - Tablier 8*40 ALU",
+    "gammes_compatibles": [
+      "INNO",
+      "CARL",
+      "SOLA",
+      "SOII"
+    ],
+    "rR": 0.15,
+    "hauteur_coffre": 0.15,
+    "uc_coefficients": {}
+  },
+  {
+    "designation": "Reno'Pack - Coffre 180 - Tablier 11*50 PVC",
+    "gammes_compatibles": [
+      "INNO",
+      "CARL",
+      "SOLA",
+      "SOII"
+    ],
+    "rR": 0.206,
+    "hauteur_coffre": 0.18,
+    "uc_coefficients": {}
+  },
+  {
+    "designation": "Reno'Pack - Coffre 180 - Tablier 11*50 ALU",
+    "gammes_compatibles": [
+      "INNO",
+      "CARL",
+      "SOLA",
+      "SOII"
+    ],
+    "rR": 0.15,
+    "hauteur_coffre": 0.18,
+    "uc_coefficients": {}
+  },
+  {
+    "designation": "Demi-Linteau  - Tablier 8*40 PVC",
+    "gammes_compatibles": [
+      "EXCL",
+      "SOII"
+    ],
+    "rR": 0.187,
+    "hauteur_coffre": 0.216,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P0": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P1": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P2": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P3": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P4": {
+        "a": 0.5,
+        "b": 0.0
+      }
+    }
+  },
+  {
+    "designation": "Demi-Linteau  - Tablier 8*40 ALU",
+    "gammes_compatibles": [
+      "EXCL",
+      "SOII"
+    ],
+    "rR": 0.15,
+    "hauteur_coffre": 0.216,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P0": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P1": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P2": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P3": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P4": {
+        "a": 0.5,
+        "b": 0.0
+      }
+    }
+  },
+  {
+    "designation": "Demi-Linteau  - Tablier 11*50 PVC",
+    "gammes_compatibles": [
+      "EXCL",
+      "SOII"
+    ],
+    "rR": 0.206,
+    "hauteur_coffre": 0.216,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P0": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P1": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P2": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P3": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P4": {
+        "a": 0.5,
+        "b": 0.0
+      }
+    }
+  },
+  {
+    "designation": "Demi-Linteau  - Tablier 11*50 ALU",
+    "gammes_compatibles": [
+      "EXCL",
+      "SOII"
+    ],
+    "rR": 0.15,
+    "hauteur_coffre": 0.216,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P0": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P1": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P2": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P3": {
+        "a": 0.5,
+        "b": 0.0
+      },
+      "P4": {
+        "a": 0.5,
+        "b": 0.0
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Thermobloc 195 - Tablier 8*40 PVC",
+    "gammes_compatibles": [
+      "INNO",
+      "CARL",
+      "EXCL",
+      "SOLA",
+      "SOII"
+    ],
+    "rR": 0.23,
+    "hauteur_coffre": 0.195,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.94,
+        "b": 0.34
+      },
+      "P1": {
+        "a": 0.97,
+        "b": 0.34
+      },
+      "P3": {
+        "a": 1.05,
+        "b": 0.34
+      },
+      "P4": {
+        "a": 1.28,
+        "b": 0.34
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Thermobloc 195 - Tablier 8*40 ALU",
+    "gammes_compatibles": [
+      "INNO",
+      "CARL",
+      "EXCL",
+      "SOLA",
+      "SOII"
+    ],
+    "rR": 0.19,
+    "hauteur_coffre": 0.195,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.94,
+        "b": 0.34
+      },
+      "P1": {
+        "a": 0.97,
+        "b": 0.34
+      },
+      "P3": {
+        "a": 1.05,
+        "b": 0.34
+      },
+      "P4": {
+        "a": 1.28,
+        "b": 0.34
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Thermobloc 195 - Tablier 8*40 ALU FE",
+    "gammes_compatibles": [
+      "INNO",
+      "CARL",
+      "EXCL",
+      "SOLA",
+      "SOII"
+    ],
+    "rR": 0.28,
+    "hauteur_coffre": 0.195,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.94,
+        "b": 0.34
+      },
+      "P1": {
+        "a": 0.97,
+        "b": 0.34
+      },
+      "P3": {
+        "a": 1.05,
+        "b": 0.34
+      },
+      "P4": {
+        "a": 1.28,
+        "b": 0.34
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Thermobloc 195 - Tablier 11*50 PVC",
+    "gammes_compatibles": [],
+    "rR": 0.25,
+    "hauteur_coffre": 0.195,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.94,
+        "b": 0.34
+      },
+      "P1": {
+        "a": 0.97,
+        "b": 0.34
+      },
+      "P3": {
+        "a": 1.05,
+        "b": 0.34
+      },
+      "P4": {
+        "a": 1.28,
+        "b": 0.34
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Thermobloc 195 - Tablier 11*50 ALU",
+    "gammes_compatibles": [],
+    "rR": 0.19,
+    "hauteur_coffre": 0.195,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.94,
+        "b": 0.34
+      },
+      "P1": {
+        "a": 0.97,
+        "b": 0.34
+      },
+      "P3": {
+        "a": 1.05,
+        "b": 0.34
+      },
+      "P4": {
+        "a": 1.28,
+        "b": 0.34
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Thermobloc 225 - Tablier 8*40 PVC",
+    "gammes_compatibles": [],
+    "rR": 0.23,
+    "hauteur_coffre": 0.225,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.85,
+        "b": 0.52
+      },
+      "P1": {
+        "a": 0.87,
+        "b": 0.52
+      },
+      "P3": {
+        "a": 0.93,
+        "b": 0.52
+      },
+      "P4": {
+        "a": 1.12,
+        "b": 0.52
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Thermobloc 225 - Tablier 8*40 ALU",
+    "gammes_compatibles": [],
+    "rR": 0.19,
+    "hauteur_coffre": 0.225,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.85,
+        "b": 0.52
+      },
+      "P1": {
+        "a": 0.87,
+        "b": 0.52
+      },
+      "P3": {
+        "a": 0.93,
+        "b": 0.52
+      },
+      "P4": {
+        "a": 1.12,
+        "b": 0.52
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Thermobloc 225 - Tablier 8*40 ALU FE",
+    "gammes_compatibles": [],
+    "rR": 0.33,
+    "hauteur_coffre": 0.225,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.85,
+        "b": 0.52
+      },
+      "P1": {
+        "a": 0.87,
+        "b": 0.52
+      },
+      "P3": {
+        "a": 0.93,
+        "b": 0.52
+      },
+      "P4": {
+        "a": 1.12,
+        "b": 0.52
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Thermobloc 225 - Tablier 11*50 PVC",
+    "gammes_compatibles": [
+      "INNO",
+      "CARL",
+      "EXCL",
+      "SOLA",
+      "SOII"
+    ],
+    "rR": 0.25,
+    "hauteur_coffre": 0.225,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.85,
+        "b": 0.52
+      },
+      "P1": {
+        "a": 0.87,
+        "b": 0.52
+      },
+      "P3": {
+        "a": 0.93,
+        "b": 0.52
+      },
+      "P4": {
+        "a": 1.12,
+        "b": 0.52
+      }
+    }
+  },
+  {
+    "designation": "Bloc Baie - Thermobloc 225 - Tablier 11*50 ALU",
+    "gammes_compatibles": [
+      "INNO",
+      "CARL",
+      "EXCL",
+      "SOLA",
+      "SOII"
+    ],
+    "rR": 0.19,
+    "hauteur_coffre": 0.225,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.85,
+        "b": 0.52
+      },
+      "P1": {
+        "a": 0.87,
+        "b": 0.52
+      },
+      "P3": {
+        "a": 0.93,
+        "b": 0.52
+      },
+      "P4": {
+        "a": 1.12,
+        "b": 0.52
+      }
+    }
+  },
+  {
+    "designation": "Reno - Mezzo 145 - Tablier 8*40 PVC",
+    "gammes_compatibles": [
+      "EXCL"
+    ],
+    "rR": 0.187,
+    "hauteur_coffre": 0.145,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.55,
+        "b": 0.0
+      },
+      "P3": {
+        "a": 0.55,
+        "b": 0.0
+      },
+      "P4": {
+        "a": 1.08,
+        "b": 0.0
+      }
+    }
+  },
+  {
+    "designation": "Reno - Mezzo 145 - Tablier 8*40 ALU",
+    "gammes_compatibles": [
+      "EXCL"
+    ],
+    "rR": 0.15,
+    "hauteur_coffre": 0.145,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.55,
+        "b": 0.0
+      },
+      "P3": {
+        "a": 0.55,
+        "b": 0.0
+      },
+      "P4": {
+        "a": 1.08,
+        "b": 0.0
+      }
+    }
+  },
+  {
+    "designation": "Reno - Mezzo 170 - Tablier 11*50 PVC",
+    "gammes_compatibles": [
+      "EXCL"
+    ],
+    "rR": 0.206,
+    "hauteur_coffre": 0.17,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.55,
+        "b": 0.0
+      },
+      "P3": {
+        "a": 0.55,
+        "b": 0.0
+      },
+      "P4": {
+        "a": 1.04,
+        "b": 0.0
+      }
+    }
+  },
+  {
+    "designation": "Reno - Mezzo 170 - Tablier 11*50 ALU",
+    "gammes_compatibles": [
+      "EXCL"
+    ],
+    "rR": 0.15,
+    "hauteur_coffre": 0.17,
+    "uc_coefficients": {
+      "T": {
+        "a": 0.55,
+        "b": 0.0
+      },
+      "P3": {
+        "a": 0.55,
+        "b": 0.0
+      },
+      "P4": {
+        "a": 1.04,
+        "b": 0.0
+      }
+    }
+  }
+]

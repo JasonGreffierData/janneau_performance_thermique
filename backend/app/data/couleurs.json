@@ -1,0 +1,1010 @@
+[
+  {
+    "nom": "IFH",
+    "famille_prix": "Famille N°1",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Impression blanche",
+    "famille_prix": "Famille N°1",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Blanc - RAL 9010",
+    "famille_prix": "Famille N°1",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Blanc gris - RAL 9002",
+    "famille_prix": "Famille N°1",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Bleu distant - RAL 5023",
+    "famille_prix": "Famille N°1",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Bleu gentiane - RAL 5010",
+    "famille_prix": "Famille N°1",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris agathe - RAL 7038",
+    "famille_prix": "Famille N°1",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Gris anthracite - RAL 7016",
+    "famille_prix": "Famille N°1",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Ivoire - RAL 1015",
+    "famille_prix": "Famille N°1",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Rouge pourpre - RAL 3004",
+    "famille_prix": "Famille N°1",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Vert mousse - RAL 6005",
+    "famille_prix": "Famille N°1",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Vert pâle - RAL 6021",
+    "famille_prix": "Famille N°1",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Blanc trafic - RAL 9016",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Acajou",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Anteak",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Anthracite foncé",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Anthracite Stylo",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Argent",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Blanc - RAL 9010",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Bleu acier - RAL 5011",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Bleu brillant - RAL 5007",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Brun chocolat - RAL 8875",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun foncé",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Chêne clair irlandais",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Chêne doré",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris agathe - RAL 7038",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Gris anthracite - RAL 7016",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris argent - RAL 7001",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Gris basalte",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris quartz",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Noir brun - RAL 8518",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Noyer",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Platine",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Rouge foncé - RAL 3081",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Rouge vin - RAL 3005",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Silice",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Ton pierre - RAL 9001",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Vert mousse - RAL 6005",
+    "famille_prix": "Famille N°2",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Blanc trafic - RAL 9016",
+    "famille_prix": "Famille N°3",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Chêne doré",
+    "famille_prix": "Famille N°3",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris - RAL 7047",
+    "famille_prix": "Famille N°3",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Ton pierre - RAL 9001",
+    "famille_prix": "Famille N°3",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Blanc Trafic - RAL 9016",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Blanc Crème - RAL 9001",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Gris AS1",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris Anthracite - RAL 7016",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Noir 2100",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Ivoire Clair - RAL 1015",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Bronze 1247",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris 2800",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris 2900",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Rouge Pourpre - RAL 3004",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Bleu Acier - RAL 5011",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Vert Mousse - RAL 6005",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris Beige - RAL 7006",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris Terre d'ombre - RAL 7022",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris Telegris 4 - RAL 7047",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Anodic Ice",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Noir Profond - RAL 9005",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Aluminium Gris - RAL 9007",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Bleu Canon",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Chêne Doré",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Rouille Mars",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Rouge 2100",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Bleu 2700",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Rouge carmin - Ral 3002",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Rouge vin - Ral 3005",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Bleu saphir - Ral 5003",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Bleu distant - Ral 5023",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Vert pâle - Ral 6021",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris anthracite - Ral 7016",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Gris noir - Ral 7021",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris graphite - Ral 7024",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris clair - Ral 7035",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Brun fauve - Ral 8007",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun sépia - Ral 8014",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun chocolat - Ral 8017",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun gris - Ral 8019",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun terre - Ral 8028",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris satiné effet nacré 9006SN",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Blanc pur - Ral 9010",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris galet 9660MB",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Ivoire 100",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Anodic champagne",
+    "famille_prix": "Famille N°4",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Blanc Trafic - RAL 9016",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Blanc Crème - RAL 9001",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Gris AS1",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris Anthracite - RAL 7016",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Noir 2100",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Ivoire Clair - RAL 1015",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Bronze 1247",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris 2800",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris 2900",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Rouge Pourpre - RAL 3004",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Bleu Acier - RAL 5011",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Vert Mousse - RAL 6005",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris Beige - RAL 7006",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris Terre d'ombre - RAL 7022",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris Telegris 4 - RAL 7047",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Anodic Ice",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Noir Profond - RAL 9005",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Aluminium Gris - RAL 9007",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Bleu Canon",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Chêne Doré",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Rouille Mars",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Rouge 2100",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Bleu 2700",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Rouge carmin - Ral 3002",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Rouge vin - Ral 3005",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Bleu saphir - Ral 5003",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Bleu distant - Ral 5023",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Vert pâle - Ral 6021",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris anthracite - Ral 7016",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Gris noir - Ral 7021",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris graphite - Ral 7024",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris clair - Ral 7035",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Brun fauve - Ral 8007",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun sépia - Ral 8014",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun chocolat - Ral 8017",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun gris - Ral 8019",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun terre - Ral 8028",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris satiné effet nacré 9006SN",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Blanc pur - Ral 9010",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris galet 9660MB",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Ivoire 100",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Anodic champagne",
+    "famille_prix": "Famille N°5",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Blanc Trafic - RAL 9016",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Blanc Crème - RAL 9001",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 1,
+    "alpha": 0.4
+  },
+  {
+    "nom": "Gris AS1",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris Anthracite - RAL 7016",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Noir 2100",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Ivoire Clair - RAL 1015",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Bronze 1247",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris 2800",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris 2900",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Rouge Pourpre - RAL 3004",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Bleu Acier - RAL 5011",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Vert Mousse - RAL 6005",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris Beige - RAL 7006",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Gris Terre d'ombre - RAL 7022",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris Telegris 4 - RAL 7047",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Anodic Ice",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Noir Profond - RAL 9005",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Aluminium Gris - RAL 9007",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Bleu Canon",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Chêne Doré",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Rouille Mars",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Rouge 2100",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Bleu 2700",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Rouge carmin - Ral 3002",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Rouge vin - Ral 3005",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Bleu saphir - Ral 5003",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Bleu distant - Ral 5023",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Vert pâle - Ral 6021",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris anthracite - Ral 7016",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Gris noir - Ral 7021",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris graphite - Ral 7024",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris clair - Ral 7035",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Brun fauve - Ral 8007",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun sépia - Ral 8014",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun chocolat - Ral 8017",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun gris - Ral 8019",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Brun terre - Ral 8028",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris satiné effet nacré 9006SN",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Blanc pur - Ral 9010",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 4,
+    "alpha": 1.0
+  },
+  {
+    "nom": "Gris galet 9660MB",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 3,
+    "alpha": 0.8
+  },
+  {
+    "nom": "Ivoire 100",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 2,
+    "alpha": 0.6
+  },
+  {
+    "nom": "Anodic champagne",
+    "famille_prix": "Famille N°6",
+    "code_alpha": 2,
+    "alpha": 0.6
+  }
+]
