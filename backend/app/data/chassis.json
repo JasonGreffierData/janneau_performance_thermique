@@ -648,6 +648,15 @@
     "nb_panneaux": 0
   },
   {
+    "id": 264,
+    "nom": "CG-ALU - Baie coulissante 2 vantaux 2 rails (à valider)",
+    "famille": "BAIES COULISSANTES",
+    "gamme": null,
+    "gamme_code": "CG-A",
+    "nb_vitrages": 2,
+    "nb_panneaux": 0
+  },
+  {
     "id": 265,
     "nom": "CG-ALU - Baie coulissante 2 vantaux 2 rails (28mm)",
     "famille": "BAIES COULISSANTES",

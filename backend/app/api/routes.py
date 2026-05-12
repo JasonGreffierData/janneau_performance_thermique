@@ -53,6 +53,7 @@ def get_chassis(famille: str | None = None) -> list[dict]:
         "1_vantail", "2_vantaux", "3_vantaux", "4_vantaux",
         "2_vantaux_1_fixe_lateral", "2_vantaux_2_fixes_lateraux",
         "porte_soubassement",
+        "coulissant", "galandage",
     }
     result = []
     for c in chassis:

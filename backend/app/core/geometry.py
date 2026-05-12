@@ -322,6 +322,88 @@ def _geo_2v_2fixes(H: float, L: float, pieces: list[Piece]) -> GeometryResult:
     )
 
 
+def _geo_coulissant(H: float, L: float, pieces: list[Piece],
+                    nb_zones: int = 2) -> GeometryResult:
+    """
+    Baie coulissante — de 2 à N vantaux sur 2 ou 3 rails.
+    Pièces attendues : Traverse haute (TH), Traverse basse (TB),
+                       Chicane (jonction centrale), Montant gauche (MG), Montant droite (MD).
+    Pièces optionnelles internes (meneaux ouvrants, traverses ouvrants) : incluses dans Af_total
+    uniquement via Ufi_moyen, sans impact sur les zones vitrées.
+
+    Formule pour n zones égales (L/n chacune) — référence onglets Excel SOLARIS II / CG-ALU :
+      Zone 1       : Ag = (L/n - MG.Af  - Chicane.Af/2) × Hv
+      Zone 2…n-1   : Ag = (L/n - Chicane.Af/2 - Chicane.Af/2) × Hv
+      Zone n       : Ag = (L/n - Chicane.Af/2 - MD.Af) × Hv
+      lg_i         : 2 × largeur_zone_i + 2 × Hv
+    """
+    TH      = _find(pieces, "traverse haute")
+    TB      = _find(pieces, "traverse basse")
+    Chicane = _find(pieces, "chicane") or _find(pieces, "masse centrale") or _find(pieces, "centrale")
+    MG      = _find(pieces, "gauche")
+    MD      = _find(pieces, "droite") or _find(pieces, "droit")
+
+    Hv = H - TH.Af - TB.Af
+    w  = L / nb_zones
+    ch_af = Chicane.Af if Chicane else 0.0
+
+    zones = []
+    for i in range(nb_zones):
+        left  = MG.Af    if i == 0             else ch_af / 2
+        right = MD.Af    if i == nb_zones - 1  else ch_af / 2
+        Ag = (w - left - right) * Hv
+        lg = 2 * (w - left - right) + 2 * Hv
+        zones.append(ZoneVitrage(Ag=max(0.0, Ag), lg=max(0.0, lg), index=i))
+
+    Ag_total = sum(z.Ag for z in zones)
+
+    return GeometryResult(
+        pieces=pieces,
+        zones=zones,
+        Af_total=max(0.0, H * L - Ag_total),
+        Ag_total=Ag_total,
+        surface_totale=H * L,
+        Ufi_moyen=_ufi_moyen(pieces),
+    )
+
+
+def _geo_galandage(H: float, L: float, pieces: list[Piece]) -> GeometryResult:
+    """
+    Galandage 1 vantail — le vantail disparaît dans le tableau de maçonnerie.
+    Pièces : Traverse haute (TH), Traverse basse (TB),
+             Montant côté galandage (MG), Montant côté refoulement (MD).
+
+    Formule (onglet Excel SOLARIS II galandage 1V) :
+      Hv  = H - TH.Af - TB.Af
+      Ag  = (L - MG.Af - MD.Af) × Hv
+      lg  = 2 × (L - MG.Af - MD.Af) + 2 × Hv
+    """
+    TH = _find(pieces, "traverse haute")
+    TB = _find(pieces, "traverse basse")
+    MG = _find(pieces, "galandage") or pieces[2]
+    MD = _find(pieces, "refoulement") or pieces[3]
+
+    Hv  = H - TH.Af - TB.Af
+    lv  = L - MG.Af - MD.Af
+    Ag  = lv * Hv
+    lg  = 2 * lv + 2 * Hv
+
+    Af_TH = lv * TH.Af
+    Af_TB = lv * TB.Af
+    Af_MG = H * MG.Af
+    Af_MD = H * MD.Af
+    Af_total = Af_TH + Af_TB + Af_MG + Af_MD
+
+    return GeometryResult(
+        pieces=pieces,
+        zones=[ZoneVitrage(Ag=max(0.0, Ag), lg=max(0.0, lg), index=0)],
+        Af_total=Af_total,
+        Ag_total=max(0.0, Ag),
+        surface_totale=H * L,
+        Ufi_moyen=_ufi_moyen(pieces),
+    )
+
+
 def _geo_porte_soubassement(H: float, L: float, pieces: list[Piece],
                              hauteur_soubassement: float = 0.45) -> GeometryResult:
     """
@@ -365,13 +447,15 @@ def _geo_porte_soubassement(H: float, L: float, pieces: list[Piece],
 # ---------------------------------------------------------------------------
 
 GEOMETRY_DISPATCH = {
-    "1_vantail": _geo_1_vantail,
-    "2_vantaux": _geo_2_vantaux,
-    "3_vantaux": _geo_3_vantaux,
-    "4_vantaux": _geo_4_vantaux,
-    "2_vantaux_1_fixe_lateral": _geo_2v_1fixe,
+    "1_vantail":                  _geo_1_vantail,
+    "2_vantaux":                  _geo_2_vantaux,
+    "3_vantaux":                  _geo_3_vantaux,
+    "4_vantaux":                  _geo_4_vantaux,
+    "2_vantaux_1_fixe_lateral":   _geo_2v_1fixe,
     "2_vantaux_2_fixes_lateraux": _geo_2v_2fixes,
-    "porte_soubassement": _geo_porte_soubassement,
+    "porte_soubassement":         _geo_porte_soubassement,
+    "coulissant":                 _geo_coulissant,
+    "galandage":                  _geo_galandage,
 }
 
 
@@ -407,5 +491,8 @@ def compute_geometry(
 
     if geo_type == "porte_soubassement":
         return fn(H, L, pieces, hauteur_soubassement=extra.get("hauteur_soubassement", 0.45))
+
+    if geo_type == "coulissant":
+        return fn(H, L, pieces, nb_zones=extra.get("nb_zones", 2))
 
     return fn(H, L, pieces)

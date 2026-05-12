@@ -266,7 +266,12 @@ def calculer(inp: CalculInput) -> CalculResult:
     geo_data = _get_geometry(chassis_id)
     pieces_data = geo_data["pieces"]
     geo_type = geo_data["geo_type"]
-    extra_params = geo_data.get("extra_params", {})
+    zones_psi = geo_data.get("zones_psi", [])
+    extra_params = {
+        **geo_data.get("extra_params", {}),
+        # nb_zones : dérivé de zones_psi, utilisé par _geo_coulissant
+        "nb_zones": len(zones_psi) if zones_psi else 2,
+    }
 
     H = inp.hauteur_mm / 1000
     L = inp.largeur_mm / 1000
@@ -275,7 +280,7 @@ def calculer(inp: CalculInput) -> CalculResult:
 
     # 3. Résoudre les remplissages
     all_remplissages = list(inp.vitrages) + list(inp.panneaux)
-    zones_psi = geo_data.get("zones_psi", [])
+    # zones_psi est déjà défini plus haut (utilisé pour nb_zones)
 
     vitrage_data = []
     for i, zone in enumerate(geo.zones):
@@ -298,7 +303,7 @@ def calculer(inp: CalculInput) -> CalculResult:
                                    renfort=geo_data.get("renfort", "Non"))
             else:
                 # 0.08 W/(m·K) : valeur par défaut intercalaire alu (EN ISO 10077-1)
-            psi_g = zone_meta.get("Psi_g_default") or 0.08
+                psi_g = zone_meta.get("Psi_g_default") or 0.08
 
             vitrage_data.append({
                 "Ug": ug,

@@ -14388,5 +14388,55 @@
         "Psi_g_dynamic": true
       }
     ]
+  },
+  "264": {
+    "pieces": [
+      {
+        "nom": "Traverse haute",
+        "Af": 0.11,
+        "Uf": 3.1
+      },
+      {
+        "nom": "Traverse basse",
+        "Af": 0.11,
+        "Uf": 2.8
+      },
+      {
+        "nom": "Chicane",
+        "Af": 0.038,
+        "Uf": 3.8
+      },
+      {
+        "nom": "Montant gauche",
+        "Af": 0.0945,
+        "Uf": 2.8
+      },
+      {
+        "nom": "Montant droite",
+        "Af": 0.0945,
+        "Uf": 2.8
+      }
+    ],
+    "Ufi_moyen": 2.958836689038031,
+    "nb_pieces": 5,
+    "geo_type": "coulissant",
+    "renfort": "Non",
+    "extra_params": {},
+    "zones_psi": [
+      {
+        "zone": 0,
+        "Ug_default": null,
+        "Ug_dynamic": true,
+        "Psi_g_default": null,
+        "Psi_g_dynamic": true
+      },
+      {
+        "zone": 1,
+        "Ug_default": null,
+        "Ug_dynamic": true,
+        "Psi_g_default": null,
+        "Psi_g_dynamic": true
+      }
+    ]
   }
 }
