@@ -1,0 +1,53 @@
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# ─── uv / pip ─────────────────────────────────────────────────────────────────
+# uv.lock est versionné intentionnellement (reproductibilité)
+.uv/
+
+# ─── Node / frontend ──────────────────────────────────────────────────────────
+node_modules/
+frontend/dist/
+frontend/.vite/
+*.local
+
+# ─── Docker ───────────────────────────────────────────────────────────────────
+# docker-compose.override.yml est versionné, les surcharges locales non
+docker-compose.local.yml
+
+# ─── Fichiers de travail / éditeurs ───────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# ─── Fichiers sources propriétaires (ne pas versionner) ──────────────────────
+*.xlsm
+*.xlsx
+*.xls
+
+# ─── Assets à la racine (copiés dans frontend/public/) ───────────────────────
+Logo_Janneau_Q-700x323-465478200.png
+
+# ─── Logs & temporaires ───────────────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
