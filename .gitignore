@@ -29,6 +29,9 @@ frontend/.vite/
 # docker-compose.override.yml est versionné, les surcharges locales non
 docker-compose.local.yml
 
+# ─── Claude Code ──────────────────────────────────────────────────────────────
+.claude/
+
 # ─── Fichiers de travail / éditeurs ───────────────────────────────────────────
 .DS_Store
 Thumbs.db
