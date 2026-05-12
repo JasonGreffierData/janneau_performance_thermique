@@ -2,6 +2,7 @@ import type { CalculResult } from "../types";
 
 interface ResultCardProps {
   result: CalculResult;
+  recapFamille: string;
   recapChassis: string;
   recapLargeur: number;
   recapHauteur: number;
@@ -9,29 +10,57 @@ interface ResultCardProps {
   recapCouleurHex: string;
 }
 
-// Gauge bar: 0-5 W/(m²·K) for Uw, 0-1 for Sw/Tlw
-function GaugeBar({ value, max, low }: { value: number; max: number; low?: boolean }) {
-  const pct = Math.min(100, (value / max) * 100);
-  const color = low
-    ? pct < 33 ? "#22c55e" : pct < 66 ? "#f59e0b" : "#ef4444"
-    : pct > 66 ? "#22c55e" : pct > 33 ? "#f59e0b" : "#ef4444";
+type GaugeConfig = {
+  max: number;
+  thresholds: [number, number];   // [seuil_bon, seuil_passable]
+  low: boolean;                   // true = valeur basse = meilleure
+  labels: [string, string, string]; // [bon, passable, mauvais]
+  reference?: string;             // ex: "RE2020 : ≤ 1.3"
+};
+
+function GaugeBar({ value, cfg, highlight }: { value: number; cfg: GaugeConfig; highlight?: boolean }) {
+  const pct = Math.min(100, (value / cfg.max) * 100);
+  const [t1, t2] = cfg.thresholds;
+
+  let color: string;
+  let perfLabel: string;
+  if (cfg.low) {
+    if (value <= t1)      { color = "#22c55e"; perfLabel = cfg.labels[0]; }
+    else if (value <= t2) { color = "#f59e0b"; perfLabel = cfg.labels[1]; }
+    else                  { color = "#ef4444"; perfLabel = cfg.labels[2]; }
+  } else {
+    if (value >= t1)      { color = "#22c55e"; perfLabel = cfg.labels[0]; }
+    else if (value >= t2) { color = "#f59e0b"; perfLabel = cfg.labels[1]; }
+    else                  { color = "#ef4444"; perfLabel = cfg.labels[2]; }
+  }
+
   return (
-    <div className="w-full bg-gray-100 rounded-full h-1.5 mt-2">
-      <div className="h-1.5 rounded-full transition-all duration-700" style={{ width: `${pct}%`, backgroundColor: color }} />
+    <div className="mt-2 space-y-1">
+      <div className="flex items-center justify-between gap-2">
+        <div className="flex-1 bg-black/10 rounded-full h-1.5">
+          <div className="h-1.5 rounded-full transition-all duration-700" style={{ width: `${pct}%`, backgroundColor: color }} />
+        </div>
+        <span className={`text-[10px] font-semibold whitespace-nowrap ${highlight ? "text-white/80" : "text-gray-500"}`}
+          style={{ color: highlight ? undefined : color }}>
+          {perfLabel}
+        </span>
+      </div>
+      {cfg.reference && (
+        <p className={`text-[10px] ${highlight ? "text-white/50" : "text-gray-400"}`}>{cfg.reference}</p>
+      )}
     </div>
   );
 }
 
 function MetricCard({
-  code, label, value, unit, description, max, low, highlight,
+  code, label, value, unit, description, cfg, highlight,
 }: {
   code: string;
   label: string;
   value: number | null | undefined;
   unit: string;
   description: string;
-  max: number;
-  low?: boolean;
+  cfg: GaugeConfig;
   highlight?: boolean;
 }) {
   const displayed = value !== null && value !== undefined
@@ -49,14 +78,14 @@ function MetricCard({
       </div>
       <div className={`text-xs leading-snug ${highlight ? "text-white/60" : "text-gray-400"}`}>{description}</div>
       {value !== null && value !== undefined && (
-        <GaugeBar value={value} max={max} low={low} />
+        <GaugeBar value={value} cfg={cfg} highlight={highlight} />
       )}
     </div>
   );
 }
 
 export function ResultCard({
-  result, recapChassis, recapLargeur, recapHauteur, recapCouleur, recapCouleurHex,
+  result, recapFamille, recapChassis, recapLargeur, recapHauteur, recapCouleur, recapCouleurHex,
 }: ResultCardProps) {
   const { menuiserie_seule: m, avec_volet: v, details: d } = result;
 
@@ -67,6 +96,7 @@ export function ResultCard({
       <div className="bg-janneau-dark text-white rounded-2xl px-6 py-4 flex flex-wrap gap-4 items-center">
         <div className="flex-1 min-w-0">
           <div className="text-xs text-gray-400 uppercase tracking-wide mb-1">Menuiserie calculée</div>
+          <div className="text-xs text-janneau-teal font-medium mb-0.5">{recapFamille}</div>
           <div className="font-semibold text-sm truncate">{recapChassis}</div>
         </div>
         <div className="text-center">
@@ -105,8 +135,13 @@ export function ResultCard({
             value={m.Uw}
             unit="W/(m²·K)"
             description="Plus la valeur est basse, meilleure est l'isolation thermique"
-            max={3.5}
-            low
+            cfg={{
+              max: 3.5,
+              thresholds: [1.3, 2.0],
+              low: true,
+              labels: ["Très performant", "Réglementaire", "Insuffisant"],
+              reference: "Réf. RE2020 : ≤ 1,3 W/(m²·K)",
+            }}
             highlight
           />
           <MetricCard
@@ -114,8 +149,13 @@ export function ResultCard({
             label="Facteur solaire"
             value={m.Sw}
             unit="sans unité (0 à 1)"
-            description="Part du rayonnement solaire total transmis à travers la menuiserie"
-            max={1}
+            description="Part du rayonnement solaire transmis — dépend de l'orientation et du climat"
+            cfg={{
+              max: 1,
+              thresholds: [0.6, 0.3],
+              low: false,
+              labels: ["Élevé", "Moyen", "Faible"],
+            }}
           />
           <MetricCard
             code="TLw"
@@ -123,7 +163,12 @@ export function ResultCard({
             value={m.Tlw}
             unit="%"
             description="Part de lumière naturelle transmise — plus c'est élevé, plus c'est lumineux"
-            max={100}
+            cfg={{
+              max: 100,
+              thresholds: [65, 45],
+              low: false,
+              labels: ["Très lumineux", "Lumineux", "Peu lumineux"],
+            }}
           />
         </div>
       </div>

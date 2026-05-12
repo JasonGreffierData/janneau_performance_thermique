@@ -43,7 +43,23 @@ export function useIntercalaires() {
 export function useCouleurs() {
   const [couleurs, setCouleurs] = useState<CouleurOption[]>([]);
   useEffect(() => {
-    api.getCouleurs().then(setCouleurs).catch(console.error);
+    api.getCouleurs().then((all) => {
+      // Dédupliquer par code RAL si présent, sinon par nom normalisé (minuscule)
+      // Évite les doublons dus aux variations de casse ("RAL 3004" vs "Ral 3004")
+      const seen = new Set<string>();
+      const dedupKey = (nom: string) => {
+        const m = nom.match(/\d{4,5}/);
+        return m ? `RAL-${m[0]}` : nom.toLowerCase().trim();
+      };
+      const dedup = all.filter((c) => {
+        const key = dedupKey(c.nom);
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
+      dedup.sort((a, b) => a.nom.localeCompare(b.nom, "fr", { sensitivity: "base" }));
+      setCouleurs(dedup);
+    }).catch(console.error);
   }, []);
   return couleurs;
 }
