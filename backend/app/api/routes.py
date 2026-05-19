@@ -2,16 +2,11 @@
 Routes FastAPI — Calculateur de performances thermiques JANNEAU
 """
 
-import json
-from functools import lru_cache
-from pathlib import Path
-
 from fastapi import APIRouter, HTTPException
 
 from app.core.calculator import (
     _chassis_list,
     _couleurs_db,
-    _get_chassis,
     _geometry_db,
     _psi_g_db,
     _vitrages_db,

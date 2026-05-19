@@ -31,24 +31,12 @@ const ISOLATION_OPTIONS = [
 const DEFAULT_INTERCALAIRE = "Warm-Edge";
 
 // Mise en forme lisible du nom de famille (MAJUSCULES → Titre)
-function famillShortLabel(f: string): string {
+function familleShortLabel(f: string): string {
   return f.toLowerCase().replace(/(?:^|\s|'|-)\S/g, (c) => c.toUpperCase());
 }
 
 function makeVitrag(zone: string): VitragInput {
   return { zone, composition: "", intercalaire: DEFAULT_INTERCALAIRE };
-}
-
-function nbZonesFromGeoType(geoType: string): { vitrages: number; panneaux: number } {
-  if (geoType.startsWith("porte_soubassement")) return { vitrages: 1, panneaux: 1 };
-  if (geoType === "1_vantail" || geoType === "1_vantail_traverse_intermediaire") return { vitrages: 1, panneaux: 0 };
-  if (geoType === "1_vantail_imposte") return { vitrages: 2, panneaux: 0 };
-  if (geoType === "2_vantaux") return { vitrages: 2, panneaux: 0 };
-  if (geoType === "3_vantaux") return { vitrages: 3, panneaux: 0 };
-  if (geoType === "4_vantaux") return { vitrages: 4, panneaux: 0 };
-  if (geoType === "2_vantaux_1_fixe_lateral") return { vitrages: 3, panneaux: 0 };
-  if (geoType === "2_vantaux_2_fixes_lateraux") return { vitrages: 4, panneaux: 0 };
-  return { vitrages: 1, panneaux: 0 };
 }
 
 // Petit séparateur de section dans le formulaire
@@ -98,7 +86,9 @@ export default function App() {
   const [chassisNom, setChassisNom] = useState("");
   const selectedChassis = chassisList.find((c) => c.nom === chassisNom) ?? null;
 
-  const vitrages = useVitrages();
+  const allVitrages = useVitrages();
+  const vitrages = allVitrages.filter((v) => v.type !== "PANNEAUX");
+  const panneauxOptions = allVitrages.filter((v) => v.type === "PANNEAUX");
   const intercalaires = useIntercalaires();
   const couleurs = useCouleurs();
   const volets = useVolets(selectedChassis?.gamme_code);
@@ -133,13 +123,15 @@ export default function App() {
     setResult(null);
     const ch = chassisList.find((c) => c.nom === nom);
     if (!ch) { setVitragInputs([]); setPanneauInputs([]); return; }
-    setVitragInputs([makeVitrag("G1")]);
-    setPanneauInputs([]);
+    const nbV = ch.nb_vitrages || 1;
+    const nbP = ch.nb_panneaux || 0;
+    setVitragInputs(Array.from({ length: nbV }, (_, i) => makeVitrag(`G${i + 1}`)));
+    setPanneauInputs(Array.from({ length: nbP }, (_, i) => makeVitrag(`P${i + 1}`)));
   }
 
   function syncZones(res: CalculResult) {
-    const geoType = res.details.geo_type;
-    const { vitrages: nbV, panneaux: nbP } = nbZonesFromGeoType(geoType);
+    const nbV = selectedChassis?.nb_vitrages ?? (res.details.zones_vitrage.filter((z) => z.zone.startsWith("G")).length || 1);
+    const nbP = selectedChassis?.nb_panneaux ?? res.details.zones_vitrage.filter((z) => z.zone.startsWith("P")).length;
     setVitragInputs((prev) =>
       Array.from({ length: nbV }, (_, i) => ({ ...(prev[i] ?? makeVitrag(`G${i + 1}`)), zone: `G${i + 1}` }))
     );
@@ -181,7 +173,6 @@ export default function App() {
   }
 
   const selectedVolet = volets.find((v) => v.designation === voletInput.type);
-  const isPorte = famille.startsWith("PORTES");
   const selectedCouleurHex = couleur ? colorHex(couleur) : null;
 
   const canSubmit =
@@ -230,7 +221,7 @@ export default function App() {
                         : "bg-white text-gray-600 border-gray-200 hover:border-janneau-teal/50"
                     }`}
                   >
-                    {famillShortLabel(f)}
+                    {familleShortLabel(f)}
                   </button>
                 ))}
               </div>
@@ -276,46 +267,50 @@ export default function App() {
             </FormSection>
 
             {/* Vitrage */}
-            <FormSection label="Remplissage vitrage">
-              <p className="text-[10px] text-gray-400">Vide = valeurs par défaut (Ug 1,1 · Sg 0,65 · Tlg 82%)</p>
-              <div className="space-y-2">
-                {vitragInputs.map((v, i) => (
-                  <VitrageRow
-                    key={v.zone}
-                    label={`Vitrage ${i + 1}`}
-                    zone={v.zone}
-                    value={v}
-                    onChange={(updated) =>
-                      setVitragInputs((prev) => prev.map((x, j) => (j === i ? updated : x)))
-                    }
-                    vitrages={vitrages}
-                    intercalaires={intercalaires}
-                  />
-                ))}
-                {isPorte && panneauInputs.map((p, i) => (
-                  <VitrageRow
-                    key={p.zone}
-                    label={`Panneau ${i + 1}`}
-                    zone={p.zone}
-                    value={p}
-                    onChange={(updated) =>
-                      setPanneauInputs((prev) => prev.map((x, j) => (j === i ? updated : x)))
-                    }
-                    vitrages={vitrages}
-                    intercalaires={intercalaires}
-                  />
-                ))}
-                {vitragInputs.length === 0 && chassisNom && (
-                  <button
-                    type="button"
-                    onClick={() => setVitragInputs([makeVitrag("G1")])}
-                    className="text-xs text-janneau-teal hover:underline"
-                  >
-                    + Ajouter un vitrage
-                  </button>
-                )}
-              </div>
-            </FormSection>
+            {vitragInputs.length > 0 && (
+              <FormSection label="Remplissage vitrage">
+                <p className="text-[10px] text-gray-400">Vide = valeurs par défaut (Ug 1,1 · Sg 0,65 · Tlg 82%)</p>
+                <div className="space-y-2">
+                  {vitragInputs.map((v, i) => (
+                    <VitrageRow
+                      key={v.zone}
+                      label={`Vitrage ${i + 1}`}
+                      zone={v.zone}
+                      value={v}
+                      onChange={(updated) =>
+                        setVitragInputs((prev) => prev.map((x, j) => (j === i ? updated : x)))
+                      }
+                      vitrages={vitrages}
+                      intercalaires={intercalaires}
+                    />
+                  ))}
+                </div>
+              </FormSection>
+            )}
+
+            {/* Panneaux */}
+            {panneauInputs.length > 0 && (
+              <FormSection label="Remplissage panneaux">
+                <p className="text-[10px] text-gray-400">Vide = valeurs par défaut (Ug 2,4 · Sg 0 · Tlg 0%)</p>
+                <div className="space-y-2">
+                  {panneauInputs.map((p, i) => (
+                    <VitrageRow
+                      key={p.zone}
+                      label={`Panneau ${i + 1}`}
+                      zone={p.zone}
+                      value={p}
+                      onChange={(updated) =>
+                        setPanneauInputs((prev) => prev.map((x, j) => (j === i ? updated : x)))
+                      }
+                      vitrages={panneauxOptions}
+                      intercalaires={intercalaires}
+                      accentColor="amber"
+                      hideIntercalaire
+                    />
+                  ))}
+                </div>
+              </FormSection>
+            )}
 
             {/* Volet */}
             <FormSection label="Volet roulant (optionnel)">

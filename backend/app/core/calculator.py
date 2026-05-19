@@ -9,7 +9,7 @@ from pathlib import Path
 
 from app.core.geometry import GeometryResult, compute_geometry
 from app.models.inputs import CalculInput
-from app.models.outputs import CalculResult, DetailsCalcul, ResultatMenuiserie, ResultatVolet
+from app.models.outputs import CalculResult, DetailsCalcul, ResultatMenuiserie, ResultatVolet, ZoneVitrage
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 
@@ -19,12 +19,16 @@ DATA_DIR = Path(__file__).parent.parent / "data"
 # et rayonnement (~5 W/(m².K)). Utilisée pour le calcul de Sf dans la formule Sw.
 HE = 25.0  # [W/(m².K)]
 
+# Psi_p : pont thermique linéaire panneau-cadre — valeur fixe toutes gammes.
+# Source : calcul Psi g de Arnaud (novembre 2014), BDD lignes 1798-1799.
+PSI_P = 0.019  # [W/(m·K)]
+
 
 # ---------------------------------------------------------------------------
 # Chargement des données de référence
 # ---------------------------------------------------------------------------
 
-@lru_cache(maxsize=1)
+@lru_cache(maxsize=None)
 def _load_json(name: str) -> list | dict:
     return json.loads((DATA_DIR / name).read_text(encoding="utf-8"))
 
@@ -174,8 +178,9 @@ def _calc_sw(
     alpha: float,
 ) -> float:
     """
-    Sw = (Σ Af_total * Sf + Σ Ag_i * Sg_i) / (Σ Ag_i + Σ Af_j)
-    Sf = α * Uf_moyen / he
+    Sw = (Af_total * Sf + Σ Ag_i * Sg_i + Σ Ap_j * Sp_j) / (Σ Ag + Σ Ap + Af)
+    Sf = α * Uf_moyen / he       (cadre)
+    Sp = α * Up / he              (panneau opaque)
     """
     Sf = alpha * geo.Ufi_moyen / HE
 
@@ -184,8 +189,14 @@ def _calc_sw(
     for i, zone in enumerate(geo.zones):
         if i >= len(vitrage_data):
             break
-        sg = vitrage_data[i].get("Sg", 0) or 0
-        numerateur += zone.Ag * sg
+        vd = vitrage_data[i]
+        if vd.get("is_panneau"):
+            # Panneau opaque : Sp = α × Up / he
+            Sp = alpha * vd["Ug"] / HE
+            numerateur += zone.Ag * Sp
+        else:
+            sg = vd.get("Sg", 0) or 0
+            numerateur += zone.Ag * sg
 
     denominateur = geo.Ag_total + geo.Af_total
     if denominateur <= 0:
@@ -280,10 +291,12 @@ def calculer(inp: CalculInput) -> CalculResult:
 
     # 3. Résoudre les remplissages
     all_remplissages = list(inp.vitrages) + list(inp.panneaux)
+    nb_vitrage_zones = chassis.get("nb_vitrages", len(geo.zones))
     # zones_psi est déjà défini plus haut (utilisé pour nb_zones)
 
     vitrage_data = []
     for i, zone in enumerate(geo.zones):
+        is_panneau = i >= nb_vitrage_zones
         # Données Psi_g et Ug depuis les métadonnées de l'onglet chassis
         zone_meta = zones_psi[i] if i < len(zones_psi) else {}
 
@@ -291,35 +304,47 @@ def calculer(inp: CalculInput) -> CalculResult:
             remp = all_remplissages[i]
             vdb = _get_vitrage(remp.composition)
 
-            # Ug : dynamique (depuis le vitrage utilisateur) ou hardcodé
+            # Ug/Up : dynamique (depuis le vitrage/panneau utilisateur) ou hardcodé
             if zone_meta.get("Ug_dynamic", True):
                 ug = vdb["Ug"]
             else:
                 ug = zone_meta.get("Ug_default") or vdb["Ug"]
 
-            # Psi_g : dynamique (lookup table) ou hardcodé dans l'onglet
-            if zone_meta.get("Psi_g_dynamic", True):
-                psi_g = _get_psi_g(gamme_code, remp.intercalaire, ug,
-                                   renfort=geo_data.get("renfort", "Non"))
+            if is_panneau:
+                # Panneau : Psi_p fixe = 0.019 W/(m·K) (toutes gammes)
+                psi = PSI_P
+            elif zone_meta.get("Psi_g_dynamic", True):
+                # Vitrage : Psi_g dynamique (lookup table)
+                psi = _get_psi_g(gamme_code, remp.intercalaire, ug,
+                                 renfort=geo_data.get("renfort", "Non"))
             else:
-                # 0.08 W/(m·K) : valeur par défaut intercalaire alu (EN ISO 10077-1)
-                psi_g = zone_meta.get("Psi_g_default") or 0.08
+                # Vitrage : Psi_g hardcodé dans l'onglet
+                psi = zone_meta.get("Psi_g_default") or 0.08
 
             vitrage_data.append({
                 "Ug": ug,
-                "Psi_g": psi_g,
+                "Psi_g": psi,
                 "Sg": vdb.get("Sg", 0),
                 "Tlg": vdb.get("Tlg", 0),
+                "is_panneau": is_panneau,
             })
         else:
-            # Zone sans remplissage saisi → valeurs de repli conservatrices
-            # Ug  = 1.1 W/(m².K) : double vitrage standard 4/16Ar/4 (EN 673)
-            # Psi_g = 0.08 W/(m·K) : intercalaire alu (EN ISO 10077-1)
-            # Sg  = 0.65 : facteur solaire double vitrage clair (EN 410)
-            # Tlg = 0.82 : transmission lumineuse double vitrage clair (EN 410)
-            ug = zone_meta.get("Ug_default") or 1.1
-            psi_g = zone_meta.get("Psi_g_default") or 0.08
-            vitrage_data.append({"Ug": ug, "Psi_g": psi_g, "Sg": 0.65, "Tlg": 0.82})
+            if is_panneau:
+                # Panneau sans remplissage saisi → valeurs de repli
+                # Up  = 2.4 W/(m².K) : panneau standard Plate bande 28
+                # Psi_p = 0.019 W/(m·K) : fixe toutes gammes
+                # Sg/Tlg = 0 : panneau opaque
+                ug = zone_meta.get("Ug_default") or 2.4
+                vitrage_data.append({"Ug": ug, "Psi_g": PSI_P, "Sg": 0, "Tlg": 0, "is_panneau": True})
+            else:
+                # Vitrage sans remplissage saisi → valeurs de repli conservatrices
+                # Ug  = 1.1 W/(m².K) : double vitrage standard 4/16Ar/4 (EN 673)
+                # Psi_g = 0.08 W/(m·K) : intercalaire alu (EN ISO 10077-1)
+                # Sg  = 0.65 : facteur solaire double vitrage clair (EN 410)
+                # Tlg = 0.82 : transmission lumineuse double vitrage clair (EN 410)
+                ug = zone_meta.get("Ug_default") or 1.1
+                psi_g = zone_meta.get("Psi_g_default") or 0.08
+                vitrage_data.append({"Ug": ug, "Psi_g": psi_g, "Sg": 0.65, "Tlg": 0.82})
 
     # 4. Calculs thermiques
     alpha = _get_alpha(inp.couleur)
@@ -339,6 +364,16 @@ def calculer(inp: CalculInput) -> CalculResult:
                 Uw, volet, L, H, inp.volet.isolation_acoustique
             )
 
+    g_idx, p_idx = 0, 0
+    zones_labels = []
+    for vd in vitrage_data:
+        if vd.get("is_panneau"):
+            p_idx += 1
+            zones_labels.append(f"P{p_idx}")
+        else:
+            g_idx += 1
+            zones_labels.append(f"G{g_idx}")
+
     return CalculResult(
         menuiserie_seule=ResultatMenuiserie(
             Uw=round(Uw, 4),
@@ -354,5 +389,16 @@ def calculer(inp: CalculInput) -> CalculResult:
             Af_total=round(geo.Af_total, 4),
             Ag_total=round(geo.Ag_total, 4),
             surface_totale=round(geo.surface_totale, 4),
+            zones_vitrage=[
+                ZoneVitrage(
+                    zone=zones_labels[i],
+                    Ug=round(vd["Ug"], 3),
+                    Psi_g=round(vd["Psi_g"], 4),
+                    Sg=round(vd["Sg"], 3) if vd.get("Sg") is not None else None,
+                )
+                for i, vd in enumerate(vitrage_data)
+            ],
+            alpha=round(alpha, 2),
+            HE=HE,
         ),
     )

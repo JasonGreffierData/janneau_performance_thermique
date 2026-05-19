@@ -92,11 +92,3 @@ export function colorHex(nom: string): string {
   const key = nom.toLowerCase().replace(/\s*-\s*ral\s*\d{4}/i, "").trim();
   return NAME_HEX[key] ?? "#CCCCCC";
 }
-
-/** Retourne true si la couleur hex est claire (pour choisir la couleur du texte). */
-export function isLight(hex: string): boolean {
-  const r = parseInt(hex.slice(1, 3), 16);
-  const g = parseInt(hex.slice(3, 5), 16);
-  const b = parseInt(hex.slice(5, 7), 16);
-  return (r * 299 + g * 587 + b * 114) / 1000 > 140;
-}

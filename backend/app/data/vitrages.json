@@ -4610,9 +4610,9 @@
     "Tlg": 0.74
   },
   {
-    "composition": "Panneau Lisse 28mm isolation thermique",
+    "composition": "Panneau lisse 28 MOABI",
+    "Ug": 1.1,
     "type": "PANNEAUX",
-    "Ug": 1.0,
     "Sg": 0.0,
     "Sg1": 0.0,
     "Sg2": 0.0,
@@ -4620,9 +4620,49 @@
     "Tlg": 0.0
   },
   {
-    "composition": "Panneau Plate bande 28",
+    "composition": "Panneau rainure 28",
+    "Ug": 1.1,
     "type": "PANNEAUX",
+    "Sg": 0.0,
+    "Sg1": 0.0,
+    "Sg2": 0.0,
+    "Sg3": 0.0,
+    "Tlg": 0.0
+  },
+  {
+    "composition": "Panneau mouchette 28",
+    "Ug": 1.1,
+    "type": "PANNEAUX",
+    "Sg": 0.0,
+    "Sg1": 0.0,
+    "Sg2": 0.0,
+    "Sg3": 0.0,
+    "Tlg": 0.0
+  },
+  {
+    "composition": "Panneau lisse 28",
+    "Ug": 2.9,
+    "type": "PANNEAUX",
+    "Sg": 0.0,
+    "Sg1": 0.0,
+    "Sg2": 0.0,
+    "Sg3": 0.0,
+    "Tlg": 0.0
+  },
+  {
+    "composition": "Lisse 28mm isolation thermique",
+    "Ug": 1.0,
+    "type": "PANNEAUX",
+    "Sg": 0.0,
+    "Sg1": 0.0,
+    "Sg2": 0.0,
+    "Sg3": 0.0,
+    "Tlg": 0.0
+  },
+  {
+    "composition": "Plate bande 28",
     "Ug": 2.4,
+    "type": "PANNEAUX",
     "Sg": 0.0,
     "Sg1": 0.0,
     "Sg2": 0.0,
@@ -4631,8 +4671,28 @@
   },
   {
     "composition": "Panneau lame 28",
-    "type": "PANNEAUX",
     "Ug": 2.4,
+    "type": "PANNEAUX",
+    "Sg": 0.0,
+    "Sg1": 0.0,
+    "Sg2": 0.0,
+    "Sg3": 0.0,
+    "Tlg": 0.0
+  },
+  {
+    "composition": "Plate bande ALU 24",
+    "Ug": 2.7,
+    "type": "PANNEAUX",
+    "Sg": 0.0,
+    "Sg1": 0.0,
+    "Sg2": 0.0,
+    "Sg3": 0.0,
+    "Tlg": 0.0
+  },
+  {
+    "composition": "Panneau lisse ALU 24",
+    "Ug": 3.2,
+    "type": "PANNEAUX",
     "Sg": 0.0,
     "Sg1": 0.0,
     "Sg2": 0.0,

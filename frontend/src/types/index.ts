@@ -4,6 +4,8 @@ export interface ChassisInfo {
   famille: string;
   gamme_code: string;
   supporte: boolean;
+  nb_vitrages: number;
+  nb_panneaux: number;
 }
 
 export interface VitrageOption {
@@ -63,6 +65,13 @@ export interface ResultatVolet {
   Uc: number | null;
 }
 
+export interface ZoneVitrage {
+  zone: string;
+  Ug: number;
+  Psi_g: number;
+  Sg: number | null;
+}
+
 export interface DetailsCalcul {
   chassis_id: number;
   geo_type: string;
@@ -70,6 +79,10 @@ export interface DetailsCalcul {
   Af_total: number | null;
   Ag_total: number | null;
   surface_totale: number | null;
+  zones_vitrage: ZoneVitrage[];
+  alpha: number | null;
+  HE: number;
+  Psi_g_defaut: number;
   normes: string[];
 }
 

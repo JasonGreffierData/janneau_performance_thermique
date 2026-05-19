@@ -208,12 +208,57 @@ export function ResultCard({
           </svg>
           Détails du calcul
         </summary>
-        <div className="px-5 pb-4 pt-2 grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs text-gray-500">
-          <div><span className="font-semibold text-gray-700">Type géo.</span><br /><code className="font-mono text-[10px]">{d.geo_type}</code></div>
-          <div><span className="font-semibold text-gray-700">Uf moyen</span><br />{d.Uf_moyen?.toFixed(4)} W/(m²·K)</div>
-          <div><span className="font-semibold text-gray-700">Af total</span><br />{d.Af_total?.toFixed(4)} m²</div>
-          <div><span className="font-semibold text-gray-700">Ag total</span><br />{d.Ag_total?.toFixed(4)} m²</div>
-          <div className="col-span-2 sm:col-span-4 border-t border-gray-200 pt-2 text-gray-400">
+        <div className="px-5 pb-4 pt-2 space-y-3 text-xs text-gray-500">
+
+          {/* Géométrie */}
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+            <div><span className="font-semibold text-gray-700">Type géo.</span><br /><code className="font-mono text-[10px]">{d.geo_type}</code></div>
+            <div><span className="font-semibold text-gray-700">Uf moyen</span><br />{d.Uf_moyen?.toFixed(4)} W/(m²·K)</div>
+            <div><span className="font-semibold text-gray-700">Af total</span><br />{d.Af_total?.toFixed(4)} m²</div>
+            <div><span className="font-semibold text-gray-700">Ag total</span><br />{d.Ag_total?.toFixed(4)} m²</div>
+          </div>
+
+          {/* Vitrages par zone */}
+          {d.zones_vitrage.length > 0 && (
+            <div className="border-t border-gray-200 pt-2">
+              <p className="font-semibold text-gray-700 mb-1.5">Remplissages</p>
+              <div className="overflow-x-auto">
+                <table className="w-full text-[11px]">
+                  <thead>
+                    <tr className="text-gray-400 border-b border-gray-100">
+                      <th className="text-left font-medium pb-1 pr-3">Zone</th>
+                      <th className="text-right font-medium pb-1 pr-3">Ug <span className="font-normal">(W/m²·K)</span></th>
+                      <th className="text-right font-medium pb-1 pr-3">Ψg <span className="font-normal">(W/m·K)</span></th>
+                      <th className="text-right font-medium pb-1">Sg</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {d.zones_vitrage.map((z) => (
+                      <tr key={z.zone} className="border-b border-gray-50">
+                        <td className="py-1 pr-3 font-semibold text-gray-600">{z.zone}</td>
+                        <td className="py-1 pr-3 text-right">{z.Ug.toFixed(3)}</td>
+                        <td className="py-1 pr-3 text-right">{z.Psi_g.toFixed(4)}</td>
+                        <td className="py-1 text-right">{z.Sg != null ? z.Sg.toFixed(3) : "—"}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          )}
+
+          {/* Constantes utilisées */}
+          <div className="border-t border-gray-200 pt-2">
+            <p className="font-semibold text-gray-700 mb-1.5">Constantes de calcul</p>
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+              <div><span className="font-medium text-gray-600">α couleur</span><br />{d.alpha?.toFixed(2)} <span className="text-gray-400">(XP P50-777)</span></div>
+              <div><span className="font-medium text-gray-600">he</span><br />{d.HE} W/(m²·K) <span className="text-gray-400">(EN ISO 6946)</span></div>
+              <div><span className="font-medium text-gray-600">Ψg défaut</span><br />{d.Psi_g_defaut} W/(m·K) <span className="text-gray-400">(intercalaire alu)</span></div>
+            </div>
+          </div>
+
+          {/* Normes */}
+          <div className="border-t border-gray-200 pt-2 text-gray-400">
             {d.normes.join(" · ")}
           </div>
         </div>

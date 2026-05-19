@@ -77,8 +77,7 @@ def _geo_1_vantail(H: float, L: float, pieces: list[Piece]) -> GeometryResult:
     return GeometryResult(
         pieces=pieces,
         zones=[ZoneVitrage(Ag=max(0, Ag), lg=max(0, lg), index=0)],
-        Af_total=sum(p.Af * (L if "traverse" in p.nom.lower() else H)
-                     for p in pieces) if False else _af_total_rect(pieces, H, L, TH, TB, MG, MD),
+        Af_total=_af_total_rect(pieces, H, L, TH, TB, MG, MD),
         Ag_total=max(0, Ag),
         surface_totale=H * L,
         Ufi_moyen=_ufi_moyen(pieces),
