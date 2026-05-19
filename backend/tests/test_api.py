@@ -180,3 +180,26 @@ class TestCalculerEndpoint:
         })
         assert r.status_code == 200
         assert len(r.json()["details"]["zones_vitrage"]) >= 1
+
+    def test_with_hauteur_soubassement(self, client):
+        r = client.post("/api/calculer", json={
+            "famille": "PORTES CREMONE-SERRURE-SERVICE",
+            "chassis": "BOIS - Porte crémone 1 vantail avec soubassement",
+            "couleur": "Blanc - RAL 9010",
+            "hauteur_mm": 2150,
+            "largeur_mm": 900,
+            "hauteur_soubassement_mm": 600,
+        })
+        assert r.status_code == 200
+        assert r.json()["menuiserie_seule"]["Uw"] > 0
+
+    def test_invalid_hauteur_soubassement_422(self, client):
+        r = client.post("/api/calculer", json={
+            "famille": "PORTES CREMONE-SERRURE-SERVICE",
+            "chassis": "BOIS - Porte crémone 1 vantail avec soubassement",
+            "couleur": "Blanc - RAL 9010",
+            "hauteur_mm": 2150,
+            "largeur_mm": 900,
+            "hauteur_soubassement_mm": 50,
+        })
+        assert r.status_code == 422

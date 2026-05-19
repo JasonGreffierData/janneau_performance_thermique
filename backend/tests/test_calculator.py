@@ -317,3 +317,48 @@ class TestPanneaux:
         p1 = next(z for z in result.details.zones_vitrage if z.zone == "P1")
         assert p1.Ug == pytest.approx(2.4)
         assert p1.Psi_g == pytest.approx(PSI_P)
+
+
+# ---------------------------------------------------------------------------
+# Hauteur soubassement configurable
+# ---------------------------------------------------------------------------
+
+class TestHauteurSoubassement:
+    def test_explicit_450_matches_default(self):
+        """450mm explicite doit donner le même résultat que sans le champ."""
+        base = dict(
+            famille="PORTES CREMONE-SERRURE-SERVICE",
+            chassis="BOIS - Porte crémone 1 vantail avec soubassement",
+            couleur="Blanc - RAL 9010",
+            hauteur_mm=2150,
+            largeur_mm=900,
+        )
+        r_default = calculer(CalculInput(**base))
+        r_explicit = calculer(CalculInput(**base, hauteur_soubassement_mm=450))
+        assert r_default.menuiserie_seule.Uw == pytest.approx(r_explicit.menuiserie_seule.Uw)
+
+    def test_custom_hauteur_changes_uw(self):
+        """Une hauteur soubassement différente doit changer Uw."""
+        base = dict(
+            famille="PORTES CREMONE-SERRURE-SERVICE",
+            chassis="BOIS - Porte crémone 1 vantail avec soubassement",
+            couleur="Blanc - RAL 9010",
+            hauteur_mm=2150,
+            largeur_mm=900,
+        )
+        r_default = calculer(CalculInput(**base))
+        r_custom = calculer(CalculInput(**base, hauteur_soubassement_mm=700))
+        assert r_default.menuiserie_seule.Uw != pytest.approx(r_custom.menuiserie_seule.Uw, abs=1e-4)
+
+    def test_ignored_for_fenetre(self):
+        """Pour une fenêtre, le champ est ignoré (pas de crash)."""
+        inp = CalculInput(
+            famille="FENETRES A FRAPPE",
+            chassis="BOIS - Fixe",
+            couleur="Blanc - RAL 9010",
+            hauteur_mm=1200,
+            largeur_mm=800,
+            hauteur_soubassement_mm=600,
+        )
+        result = calculer(inp)
+        assert result.menuiserie_seule.Uw > 0

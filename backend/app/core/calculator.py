@@ -284,6 +284,10 @@ def calculer(inp: CalculInput) -> CalculResult:
         "nb_zones": len(zones_psi) if zones_psi else 2,
     }
 
+    # Override hauteur soubassement si l'utilisateur l'a renseigné (mm → m)
+    if inp.hauteur_soubassement_mm is not None:
+        extra_params["hauteur_soubassement"] = inp.hauteur_soubassement_mm / 1000
+
     H = inp.hauteur_mm / 1000
     L = inp.largeur_mm / 1000
 

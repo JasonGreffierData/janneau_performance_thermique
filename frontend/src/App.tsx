@@ -97,6 +97,8 @@ export default function App() {
   const [hauteur, setHauteur] = useState<number | "">("");
   const [largeur, setLargeur] = useState<number | "">("");
 
+  const [hauteurSoubassement, setHauteurSoubassement] = useState<number | "">(450);
+
   const [vitragInputs, setVitragInputs] = useState<VitragInput[]>([]);
   const [panneauInputs, setPanneauInputs] = useState<VitragInput[]>([]);
 
@@ -127,6 +129,7 @@ export default function App() {
     const nbP = ch.nb_panneaux || 0;
     setVitragInputs(Array.from({ length: nbV }, (_, i) => makeVitrag(`G${i + 1}`)));
     setPanneauInputs(Array.from({ length: nbP }, (_, i) => makeVitrag(`P${i + 1}`)));
+    setHauteurSoubassement(450);
   }
 
   function syncZones(res: CalculResult) {
@@ -162,6 +165,9 @@ export default function App() {
         },
         vitrages: vitragInputs.filter((v) => v.composition),
         panneaux: panneauInputs.filter((v) => v.composition),
+        ...(panneauInputs.length > 0 && typeof hauteurSoubassement === "number"
+          ? { hauteur_soubassement_mm: hauteurSoubassement }
+          : {}),
       });
       setResult(res);
       syncZones(res);
@@ -247,6 +253,21 @@ export default function App() {
                 <NumberInput label="Hauteur" value={hauteur} onChange={setHauteur} min={100} max={3000} unit="mm" />
               </div>
             </FormSection>
+
+            {/* Hauteur soubassement */}
+            {panneauInputs.length > 0 && (
+              <FormSection label="Hauteur soubassement (mm)">
+                <NumberInput
+                  label="Hauteur panneau"
+                  value={hauteurSoubassement}
+                  onChange={setHauteurSoubassement}
+                  min={100}
+                  max={1500}
+                  unit="mm"
+                />
+                <p className="text-[10px] text-gray-400">Hauteur de la partie basse opaque. Défaut : 450 mm.</p>
+              </FormSection>
+            )}
 
             {/* Couleur */}
             <FormSection label="Couleur extérieure">

@@ -33,6 +33,37 @@ class TestCalculInput:
                 hauteur_mm=1200, largeur_mm=-1,
             )
 
+    def test_hauteur_soubassement_default_none(self):
+        inp = CalculInput(
+            famille="F", chassis="C", couleur="B",
+            hauteur_mm=1200, largeur_mm=800,
+        )
+        assert inp.hauteur_soubassement_mm is None
+
+    def test_hauteur_soubassement_valid(self):
+        inp = CalculInput(
+            famille="F", chassis="C", couleur="B",
+            hauteur_mm=2150, largeur_mm=900,
+            hauteur_soubassement_mm=600,
+        )
+        assert inp.hauteur_soubassement_mm == 600
+
+    def test_hauteur_soubassement_too_small(self):
+        with pytest.raises(ValidationError):
+            CalculInput(
+                famille="F", chassis="C", couleur="B",
+                hauteur_mm=2150, largeur_mm=900,
+                hauteur_soubassement_mm=50,
+            )
+
+    def test_hauteur_soubassement_too_large(self):
+        with pytest.raises(ValidationError):
+            CalculInput(
+                famille="F", chassis="C", couleur="B",
+                hauteur_mm=2150, largeur_mm=900,
+                hauteur_soubassement_mm=2000,
+            )
+
     def test_default_volet(self):
         inp = CalculInput(
             famille="F", chassis="C", couleur="B",

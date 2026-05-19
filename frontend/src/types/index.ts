@@ -46,6 +46,7 @@ export interface CalculInput {
   couleur: string;
   hauteur_mm: number;
   largeur_mm: number;
+  hauteur_soubassement_mm?: number;
   volet: VoletInput;
   vitrages: VitragInput[];
   panneaux: VitragInput[];

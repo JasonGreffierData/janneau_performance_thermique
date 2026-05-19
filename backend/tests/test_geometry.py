@@ -143,6 +143,23 @@ class TestGeoPorteSoubassement:
         geo = compute_geometry(2.15, 0.9, "porte_soubassement", pieces)
         assert geo.Af_total + geo.Ag_total == pytest.approx(geo.surface_totale, rel=1e-3)
 
+    def test_custom_hauteur_soubassement(self):
+        pieces = [
+            {"nom": "Traverse haute", "Af": 0.07, "Uf": 2.0},
+            {"nom": "Traverse basse", "Af": 0.07, "Uf": 2.0},
+            {"nom": "Traverse intermédiaire", "Af": 0.07, "Uf": 2.0},
+            {"nom": "Montant crémone", "Af": 0.07, "Uf": 2.0},
+            {"nom": "Montant ferrage", "Af": 0.07, "Uf": 2.0},
+        ]
+        geo_default = compute_geometry(2.15, 0.9, "porte_soubassement", pieces)
+        geo_custom = compute_geometry(2.15, 0.9, "porte_soubassement", pieces,
+                                      {"hauteur_soubassement": 0.7})
+        # Plus grand soubassement → vitrage plus petit, panneau plus grand
+        assert geo_custom.zones[0].Ag < geo_default.zones[0].Ag
+        assert geo_custom.zones[1].Ag > geo_default.zones[1].Ag
+        assert geo_custom.Af_total + geo_custom.Ag_total == pytest.approx(
+            geo_custom.surface_totale, rel=1e-3)
+
 
 # ---------------------------------------------------------------------------
 # Coulissant

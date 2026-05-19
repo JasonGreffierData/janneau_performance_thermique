@@ -19,6 +19,10 @@ class CalculInput(BaseModel):
     couleur: str
     hauteur_mm: float = Field(..., gt=0, description="Hauteur dos de profil en mm")
     largeur_mm: float = Field(..., gt=0, description="Largeur dos de profil en mm")
+    hauteur_soubassement_mm: float | None = Field(
+        default=None, ge=100, le=1500,
+        description="Hauteur du soubassement en mm (défaut : 450 mm si applicable)",
+    )
     volet: VoletInput = VoletInput()
     vitrages: list[VitragInput] = []
     panneaux: list[VitragInput] = []
